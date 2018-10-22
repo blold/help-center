@@ -1,7 +1,7 @@
 ---
 home: true 
 heroImage: /images/vuejsradar.png
-actionText: Try it Out →
+actionText: Help Center Home →
 actionLink: /welcome
 features:
 - title: Markdown Editing 
