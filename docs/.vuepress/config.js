@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Nauticus: Help Center',
   description: 'If you\'ve got a problem, yo, i\'ll solve it 😎!',
-  base:"/help/",
+  base:"/",
   themeConfig: {
     docsDir: 'docs',
     repo: 'andreliem/vuepress-netlify-cms',
