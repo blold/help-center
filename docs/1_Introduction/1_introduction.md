@@ -9,13 +9,13 @@ title: Create New Page
 
 #### Formate of the page
 In order to be in compliance with `vuepress`, the tool, which we are currently using to create the documentation site,  your page needs to have minimum of this setup.
-	```
-		---
-		title:  Create New Page
-		---
+```
+---
+title:  Create New Page
+---
 
-		YOUR MARKDOWN GOES HERE
-	```
+YOUR MARKDOWN GOES HERE
+```
 
 #### 	Deployment
 After writing down your documentation and you are happy with it in development, you are now ready to deploy it to the live site.
