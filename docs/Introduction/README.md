@@ -3,7 +3,7 @@ title: Create New Page
 ---
 
 ## Create Page
-* In order to add a page to existing documentation in the `/docs` folder, you need to create a new `Markdown` or `.md` page in a folder that already exists or by creating a new one.
+In order to add a page to existing documentation in the `/docs` folder, you need to create a new `Markdown` or `.md` page in a folder that already exists or by creating a new one.
 
 ## Formate of the page
 In order to be in compliance with `vuepress`, the tool, which we are currently using to create the documentation site,  your page needs to have minimum of this setup.
