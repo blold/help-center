@@ -21,7 +21,7 @@ module.exports = {
   base:"/",
   themeConfig: {
     docsDir: 'docs',
-    repo: 'andreliem/vuepress-netlify-cms',
+    repo: 'NauticusOfficial/help-center',
 		sidebar: mdFiles,
     nav: [
       {
