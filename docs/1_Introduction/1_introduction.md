@@ -2,8 +2,6 @@
 title: Create New Page
 ---
 
-## Creating a new page
-
 #### Create the page
 * In order to add a page to existing documentation in the `/docs` folder, you need to create a new `Markdown` or `.md` page in a folder that already exists or by creating a new one.
 
