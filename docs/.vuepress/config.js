@@ -8,6 +8,7 @@ mdFiles = mdFiles.slice(1).map(d => {
 
 	return {
 		title: d.path.split('_').slice(1).join(' '),
+		collapsable: false,
 		children: d.children.map(ch => {
 			if (ch.name === 'README.md') return `${ch.path.split('/')[1]}/`;
 			else return ch.path.split('/').slice(1).join('/').split('.')[0];

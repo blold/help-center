@@ -9,11 +9,13 @@ title: Create New Page
 In order to be in compliance with `vuepress`, the tool, which we are currently using to create the documentation site,  your page needs to have minimum of this setup.
 ```
 ---
-title:  Create New Page
+title:  YOUR TITLE GOES HERE
 ---
 
 YOUR MARKDOWN GOES HERE
 ```
+Whatever your name the title, it will appear in the `sidbar` as a link.
+
 
 #### 	Deployment
 After writing down your documentation and you are happy with it in development, you are now ready to deploy it to the live site.
