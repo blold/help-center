@@ -6,7 +6,7 @@ title: Create New Page
 In order to add a page to existing documentation in the `/docs` folder, you need to create a new `Markdown` or `.md` page in a folder that already exists or by creating a new one.
 
 ## Formate of the page
-In order to be in compliance with `vuepress`, the tool, which we are currently using to create the documentation site,  your page needs to have minimum of this setup.
+In order to be in compliance with `vuepress`,  your page needs to have a minimum of this setup:
 ```
 ---
 title:  YOUR TITLE GOES HERE
@@ -14,7 +14,7 @@ title:  YOUR TITLE GOES HERE
 
 YOUR MARKDOWN GOES HERE
 ```
-Whatever your name the title, it will appear in the `sidbar` as a link.
+Whatever you name the title, it will appear in the `sidbar` as a link.
 
 
 ## 	Deployment
@@ -40,7 +40,5 @@ you can go ahead and click the `commit` button.
 ### PUSH
 ![PUSH](/images/PUSH.jpg)
 
-When you make a change to a file(s), upon saving, your changes will appear in the `Github Desktop` windows.
-In order to send your changes to your co-workers, you have to commit it to the online git repository.
-To do that, you have to write a `commit` message, in the highlighted space, outlining the reason for your changes and once you've done that,
-you can go ahead and click the `commit` button.
+In order to send your changes to remote repository, you need to do one last step and that is to `push` your changes.
+You can do that by clicking the highlighted `Push origin` button. Once successfully pushed, your changes will appear in a minute or two.
