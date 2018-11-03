@@ -2,4 +2,5 @@
 
 
 
-adding text for test
+### FAQ and other Helpful Information
+
