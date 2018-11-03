@@ -31,17 +31,16 @@ Sample step info
 
 
 
-## Sample Step
+## Sub Topic
 
 
 
-### Sample Sub-Step
+### Sub-Step
 
 Sample step info
 Sample step info
 
-
-### Sample Sub-Step
+### Sub-Step
 
 Sample step info
 Sample step info
@@ -54,17 +53,24 @@ Sample step info
 
 
 
-## Sample Step
+## Sub Topic
 
 
 
-### Sample Sub-Step
+### Sub-Step
+
+Sample step info
+Sample step info
+
+### Sub-Step
 
 Sample step info
 Sample step info
 
 
-### Sample Sub-Step
 
-Sample step info
-Sample step info
+
+
+
+
+Use this as a "Structure Template"
