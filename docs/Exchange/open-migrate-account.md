@@ -5,11 +5,13 @@ title:  Open or Migrate an Account
 
 # Opening up an Account
 
-## Simple Steps
+
+
+## Steps to Open an Account
 
 
 
-### To open up an account on Nauticus exchange, please complete the following steps:
+To open up an account on Nauticus exchange, please complete the following steps:
 
 1 - Navigate to <https://nauticus.exchange/>
 
