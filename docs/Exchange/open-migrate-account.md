@@ -3,7 +3,7 @@ title:  Open or Migrate an Account
 ---
 
 
-# Opening up an Account
+# Opening an Account
 
 
 
@@ -46,7 +46,7 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
-### Steps for ICO Account Migration
+## Steps for ICO Account Migration
 
 Account Migration is ONLY for ICO participants and those with accounts on the Nauticus.io site.
 
