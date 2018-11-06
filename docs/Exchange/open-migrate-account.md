@@ -28,7 +28,7 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
-![login-screen](https://help-nauticus-exchange.netlify.com/images/Sign-Up.png)
+![Sign-Up](/images/Sign-Up.png)
 
 
 
