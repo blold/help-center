@@ -3,7 +3,6 @@ title:  Open or Migrate an Account
 ---
 
 
-
 # Opening up an Account
 
 ## Simple Steps
@@ -24,10 +23,8 @@ title:  Open or Migrate an Account
 
 3 - Once you are directed to the following page, fill in your email address and secure password. 
 
+
 ![login-screen](C:\Users\josep\Documents\GitHub\help-center\docs\.vuepress\public\images\login-screen.png)
-
-
-
 
 
 4 -  After filling in your email address, secure passwrod and checking the three boxex (terms and conditinos, privacy policy and AML Policy) please click the blue “sign up” button at the bottom.
