@@ -46,32 +46,33 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
-ICO Account Migration
+### Steps for ICO Account Migration
 
 Account Migration is ONLY for ICO participants and those with accounts on the Nauticus.io site.
 
 To migrate your Nauticus.io account to the [Nauticus.Exchange](https://nauticus.exchange/) platform please take the following simple steps:
 
-1. Sign in to your Nauticus.io account.
-2. Click the large, red button that says “Account Migration.”
+1 - Sign in to your Nauticus.io account.
 
-![img](https://lh5.googleusercontent.com/MM54X8jnmt12OJlM4Zs7ATI5b4SpI3dprdRQbsqalH9PIibLSfTg0klgDj3-1yMtiqfLQZALibsa-Xxaa44lPfAoebCA6BAlKcpH0FVQaqbwP2SDlRtkg1u_RXIgmY8eg8uWwCcX)
+2 -  Click the large, red button that says “Account Migration.”
 
-\3. You should then see a page that look like this while the system looks for an account matching your Nauticus.io-associated email address:
+![Migrate-1](/images/Migrate-1.png)
 
-![img](https://lh3.googleusercontent.com/CpxYn2CMYAtIS0ff3D7zvnggMFwTiz772reoT05ipaZ6218FHW98GnN8U6bXBwhojS8HiT4ykHNxHPKfLGmVvr9e72ojYgXOit-WQeDcv9r4sQ5hhKz1tl-5tjg5v1hh6OjzXpOm)
+3 - You should then see a page that look like this while the system looks for an account matching your Nauticus.io-associated email address:
 
-\4. If no account with a matching email address is found, it will ask you to create an account — please create an account with the same email address as you used for the Nauticus.io account to link the accounts.
+![Migrate-2](/images/Migrate-2.png)
+
+4 - If no account with a matching email address is found, it will ask you to create an account — please create an account with the same email address as you used for the Nauticus.io account to link the accounts.
 
 If you have already created an account on the [Nauticus.exchange](https://nauticus.exchange/) (because you were an eager beaver and already went ahead and created one), please email us at support@nauticus.exchange and we will manually migrate the account for you.
 
-![img](https://lh6.googleusercontent.com/CSvwRlpTbJjmV3noaMHkemwUvpWmQUEAWDdZz7TbtT0E9PcmJ5yPylhwcAAhRavuXpYDJnDiAPAwqgMQ6rewYl75jO9caDQqyGg-xE-qoWf341ipdiGz1tbEgWDYBhDR34Pg-jVh)
+![Migrate-3](/images/Migrate-3.png)
 
-\5. Creating a new exchange account will then progress you to the “Migration Complete” page.
+5 - Creating a new exchange account will then progress you to the “Migration Complete” page.
 
-![img](https://lh6.googleusercontent.com/84jd_p9V7hrcFrY3VSOP1Rd4wAIaV-ybia2HtgaioIvgjEqpmO3xcrUc151DTMrwTaJauueIY__wLEDoga3IFr4g6BFgXDy7r5qLkTZqvTe68FgL2htgvxg4RkyA0rIaC_q3-Z3C)
+![Migrate-4](/images/Migrate-4.png)
 
-\6. Congratulations, your account migration is complete!
+6 - Congratulations, your account migration is complete!
 
 At this point, you may click the blue Sign In button and sign in to the [Nauticus.exchange](https://nauticus.exchange/).
 
@@ -79,9 +80,11 @@ At this point, you may click the blue Sign In button and sign in to the [Nauticu
 
 
 
-Verifying Your Account/How to KYC
+# Verifying Your Account
 
 
+
+### Steps to Complete KYC
 
 
 
