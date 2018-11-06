@@ -3,7 +3,7 @@ title:  Open or Migrate an Account
 ---
 
 
-# Opening an Account
+# Open or Migrate an Account
 
 
 
@@ -56,7 +56,7 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
-## Steps for ICO Account Migration
+## Steps to Migrate an Account
 
 Account Migration is ONLY for ICO participants and those with accounts on the Nauticus.io site.
 
@@ -106,14 +106,11 @@ At this point, you may click the blue Sign In button and sign in to the [Nauticu
 
 
 
-### Steps to Complete KYC
-
-
-
-Andrew wrote a great article on this. Please pull from this for your documentation Joe.
+## Steps to Complete KYC
 
 
 
 
 
+(medium article to use for this section)
 https://medium.com/nauticus-blockchain/step-by-step-walkthrough-of-the-nauticus-exchange-kyc-process-d2b88f954625
