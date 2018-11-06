@@ -28,7 +28,7 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
-![login-screen](C:\Users\josep\Documents\GitHub\help-center\docs\.vuepress\public\images\login-screen.png)
+![login-screen](https://help-nauticus-exchange.netlify.com/images/Sign-Up.png)
 
 
 
