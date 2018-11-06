@@ -13,7 +13,11 @@ title:  Open or Migrate an Account
 
 To open up an account on Nauticus exchange, please complete the following steps:
 
+
+
 1 - Navigate to <https://nauticus.exchange/>
+
+
 
 2 - Click the blue “sign up” button in the top right corner. 
 
@@ -36,9 +40,15 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 4 -  After filling in your email address, secure password and checking the three boxes (terms and conditions, privacy policy and AML Policy) please click the blue “sign up” button at the bottom.
 
+
+
 5 - Nauticus will then send an email to your registered email address asking you to verify. If you do not see it in your inbox then plese check your spam folder. If you don’t see it in either, please contact support@nauticus.exchange and we will assist you. 
 
+
+
 6 - After verifying your email, you are ready to sign into Nauticus.exchange.
+
+
 
 7 - Once signed in, please complete our “know your customer” (KYC) process. You can not use the exchange without this. (Link to “how to KYC).
 
@@ -56,17 +66,29 @@ To migrate your Nauticus.io account to the [Nauticus.Exchange](https://nauticus.
 
 2 -  Click the large, red button that says “Account Migration.”
 
+
+
 ![Migrate-1](/images/Migrate-1.png)
+
+
 
 3 - You should then see a page that look like this while the system looks for an account matching your Nauticus.io-associated email address:
 
+
+
 ![Migrate-2](/images/Migrate-2.png)
+
+
 
 4 - If no account with a matching email address is found, it will ask you to create an account — please create an account with the same email address as you used for the Nauticus.io account to link the accounts.
 
-If you have already created an account on the [Nauticus.exchange](https://nauticus.exchange/) (because you were an eager beaver and already went ahead and created one), please email us at support@nauticus.exchange and we will manually migrate the account for you.
+In some cases you may have already created an account on the [Nauticus.exchange](https://nauticus.exchange/) , if this is the case then please email us at support@nauticus.exchange and we will manually migrate the account for you.
+
+
 
 ![Migrate-3](/images/Migrate-3.png)
+
+
 
 5 - Creating a new exchange account will then progress you to the “Migration Complete” page.
 
