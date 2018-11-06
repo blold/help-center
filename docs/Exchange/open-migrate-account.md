@@ -24,14 +24,21 @@ title:  Open or Migrate an Account
 3 - Once you are directed to the following page, fill in your email address and secure password. 
 
 
+
+
 ![login-screen](C:\Users\josep\Documents\GitHub\help-center\docs\.vuepress\public\images\login-screen.png)
 
 
-4 -  After filling in your email address, secure passwrod and checking the three boxex (terms and conditinos, privacy policy and AML Policy) please click the blue “sign up” button at the bottom.
-\5. Nauticus will then send an email to your registered email address asking you to verify. If you do not see it in your inbox then plese check your spam folder. If you don’t see it in either, please contact support@nauticus.exchange and we will assist you. 
 
-\6. After verifying your email, you are ready to sign into Nauticus.exchange.
-\7. Once signed in, please complete our “know your customer” (KYC) process. You can not use the exchange without this. (Link to “how to KYC).
+
+
+4 -  After filling in your email address, secure password and checking the three boxes (terms and conditions, privacy policy and AML Policy) please click the blue “sign up” button at the bottom.
+
+5 - Nauticus will then send an email to your registered email address asking you to verify. If you do not see it in your inbox then plese check your spam folder. If you don’t see it in either, please contact support@nauticus.exchange and we will assist you. 
+
+6 - After verifying your email, you are ready to sign into Nauticus.exchange.
+
+7 - Once signed in, please complete our “know your customer” (KYC) process. You can not use the exchange without this. (Link to “how to KYC).
 
 
 
