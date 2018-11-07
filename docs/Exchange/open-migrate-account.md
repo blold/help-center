@@ -275,7 +275,7 @@ It is easiest to have someone else take this picture of you and then send it to 
 
 
 
-![KYC-19](/images/Exchange/KYC-19.png)
+![KYC-19](/images/Exchange/KYC-19.jpeg)
 
 
 
