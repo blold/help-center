@@ -32,7 +32,7 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
-![Sign-Up](/images/Sign-Up.png)
+![Sign-Up](/images/Exchange/Sign-Up.png)
 
 
 
@@ -110,7 +110,214 @@ At this point, you may click the blue Sign In button and sign in to the [Nauticu
 
 
 
+# Step by step guide to completing KYC on Nauticus Exchange
+
+Welcome  to our step by step guide to the new and improved KYC process on  Nauticus Exchange. We’ve refined the process to make it as easy to  understand as possible. If you have any suggestions for further  improvements, please let our [Telegram moderators ](https://t.me/nauticusblockchain)know.
+
+[If you’d prefer to watch the KYC explainer video instead, scroll to the bottom of this story].
+
+Here’s what you need to do:
+
+1. Sign into your account on a laptop or desktop PC and click on the Verify button. KYC is not yet enabled for mobile devices.
+
+\2.  Choose whether you want to be verified as an ‘Individual’ or as a  representative of a ‘Business’. If you select ‘Business’ you will need  to fill out a form and email it in. The rest of this guide only applies  if you select ‘Individual’.
 
 
-(medium article to use for this section)
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*0YrPqnze13aVO8PcjKeLYQ.png)
+
+\3. You’ll end up on this page. Fill out the information requested.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*EMkf0SNFt_rF2qDoii4f1Q.png)
+
+Notes:
+
+- Fill in your Date of Birth in the Australian/UK format with the day first, and then the month.
+- If you don’t live in an apartment or unit, you can leave the ‘Unit’ number blank.
+- Fill in your **City** where it says “Suburb” (Suburb is an Australian address feature).
+- If  you have an unusual address that doesn’t quite fit with the structure  of this form, please ensure you write down all of the relevant parts of  your address somewhere within the form. Our staff can fix it later as  long as your entire address is there somewhere.
+
+\4. The next screen asks if you’re a “Sole Trader.”
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*SlWAKntJH2iiC88uKjBsug.png)
+
+Under Australian law a “Sole Trader” is an individual who runs a business (*‘trading’ in this sense does not refer to crypto trading*).  “Sole Traders” have an Australian Business Number and put aside tax to  pay at the end of each financial year. So if you aren’t Australian and  don’t have an ABN select ‘No’.
+
+\5. Next up is a series of KYC/AML required questions. Fill them out as honestly as you can.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*UZZ96hONi0EnW1mB3_cl0w.png)
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*x_TQefmfCeS11nJDPuR2_A.png)
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*sefEH64alR8ouTezkjKHWQ.png)
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*bf9vKnMYZ1OooVPfpQKuYQ.png)
+
+\6.  Finally, you’ll end up at the following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. Driver License is the next best choice. Government  issued ID cards should be selected as a last resort.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*liRSAiiFLMmhAEef-gjZvA.png)
+
+\7.  The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*uK9sJcoMsQbBTLlilZqHvQ.png)
+
+\8.  Take a photo of the profile page of your passport on a flat surface.  Make sure the image is well lit and the photo isn’t blurry. If you have a  license, take photos of the front and the back. Make sure you don’t get  a reflection from the flash.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*GbOpxnxlYV-B0Ty7v5KeFQ.png)
+
+\9.  Once you have a nice photograph, upload it to your laptop and check  that it is under 5MB in file size. On a Mac, right click and select  ‘info’. On Windows right click and select ‘properties’. At this point,  check the box and proceed to the next screen.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*WXAN8mOkNcmbynV2aQ-2sw.png)
+
+\10. Now take your ‘selfie’ photo. There are tips on how to take a photo that will not be rejected by the system on this screen.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*0FZzI-0UcYbuCGxptvxGtg.png)
+
+\11. Upload the photo to the desktop and tick the box.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*0f9tlD1ca6gQOSGcItJKag.png)
+
+\12.  Now you get to double check your name and date of birth are correct.  This step is extremely important as one of the biggest reasons for  failing KYC is incorrectly writing out your name and date of birth.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*etFncU8ybUuMZv8FaqRuuQ.png)
+
+\13.  After confirming once again you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*KzNa_Y8kgRnjuYaUpoJpuw.png)
+
+\14. Please select your Country and the ID type that you will be uploading.
+
+Once  you have selected your country and document type, you will be asked  upload a copy of your ID documents (Driver’s License, Passport, ID  card).
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*Gi0KnxQpLfzRklChFkT_DQ.png)
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*5kIAT3d6_9CayOpzln-XBg.png)
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*wssLNuPbuQgjrDTFb0-XhA.png)
+
+\15.  Once you have uploaded your document, you will be taken to a page,  asking you to upload a picture of yourself holding a white piece of  paper with the word: **NTS** and today’s date written on it in the following format: **DD/MM/YYYY**.
+
+It is easiest to have someone else take this picture of you and then send it to you for uploading.
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*F5xuDiS3zDpydSvCYkXG5Q.jpeg)
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*y5sfwIbXPyKTq5ReyfCOCA.png)
+
+\16. After the above steps have been completed, you will then land on a Submission Confirmation Page like this:
+
+
+
+
+
+![img](https://cdn-images-1.medium.com/max/1600/1*syO5RvcPt0eNegNwk2WfRg.png)
+
+\17. Congratulations, you’ve almost made it through! Whew!
+
+At this point, it is very important that you take a long walk or make yourself a cup of tea.
+
+**Please don’t try and log in to Nauticus again for five minutes while the system updates your verification status.**
+
+**Even  better, don’t log back into your account until you have received an  email saying that you have been verified. An approval/rejection email  will be issued by the system, the minute you are approved (or rejected).**
+
+If approved, congratulations, you are one step closer to trading on the Nauticus exchange!
+
+And if you did not get verified for some reason, do not worry — we’re here to help!
+
+Just navigate to the **Cases** section of your Account and copy the error code you find there.
+
+Then please email us at [support@nauticus.exchange](mailto:support@nauticus.exchange)  with the error code and any associated error messages, so that we can  help troubleshoot your KYC case and get you verified as soon as  possible.
+
+\18. **Note: after a failed KYC attempt, you will NOT be able to complete KYC without emailing Customer Support at** [**support@nauticus.exchange**](mailto:support@nauticus.exchange) **for troubleshooting first.**
+
+Once, we have investigated and helped solve your issue, we will then re-enable your account to attempt KYC once again.
+
+
+
+
+
+<iframe data-width="854" data-height="480" data-src="/media/c15d94a3126e4580f7420c30edef648d?postId=d2b88f954625" data-media-id="c15d94a3126e4580f7420c30edef648d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdyUclaWdqOM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" src="https://medium.com/media/c15d94a3126e4580f7420c30edef648d?postId=d2b88f954625" width="700" height="393" frameborder="0"></iframe>
+
+
+
+
+
+
 https://medium.com/nauticus-blockchain/step-by-step-walkthrough-of-the-nauticus-exchange-kyc-process-d2b88f954625
