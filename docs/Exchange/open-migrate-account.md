@@ -128,7 +128,7 @@ Here’s what you need to do:
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*0YrPqnze13aVO8PcjKeLYQ.png)
+![KYC-1](/images/Exchange/KYC-1.png)
 
 \3. You’ll end up on this page. Fill out the information requested.
 
@@ -136,7 +136,7 @@ Here’s what you need to do:
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*EMkf0SNFt_rF2qDoii4f1Q.png)
+![KYC-2](/images/Exchange/KYC-2.png)
 
 Notes:
 
@@ -151,7 +151,7 @@ Notes:
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*SlWAKntJH2iiC88uKjBsug.png)
+![KYC-3](/images/Exchange/KYC-3.png)
 
 Under Australian law a “Sole Trader” is an individual who runs a business (*‘trading’ in this sense does not refer to crypto trading*).  “Sole Traders” have an Australian Business Number and put aside tax to  pay at the end of each financial year. So if you aren’t Australian and  don’t have an ABN select ‘No’.
 
@@ -161,25 +161,25 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*UZZ96hONi0EnW1mB3_cl0w.png)
+![KYC-4](/images/Exchange/KYC-4.png)
 
 
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*x_TQefmfCeS11nJDPuR2_A.png)
+![KYC-5](/images/Exchange/KYC-5.png)
 
 
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*sefEH64alR8ouTezkjKHWQ.png)
+![KYC-6](/images/Exchange/KYC-6.png)
 
 
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*bf9vKnMYZ1OooVPfpQKuYQ.png)
+![KYC-7](/images/Exchange/KYC-7.png)
 
 \6.  Finally, you’ll end up at the following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. Driver License is the next best choice. Government  issued ID cards should be selected as a last resort.
 
@@ -187,7 +187,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*liRSAiiFLMmhAEef-gjZvA.png)
+![KYC-8](/images/Exchange/KYC-8.png)
 
 \7.  The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
 
@@ -195,7 +195,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*uK9sJcoMsQbBTLlilZqHvQ.png)
+![KYC-9](/images/Exchange/KYC-9.png)
 
 \8.  Take a photo of the profile page of your passport on a flat surface.  Make sure the image is well lit and the photo isn’t blurry. If you have a  license, take photos of the front and the back. Make sure you don’t get  a reflection from the flash.
 
@@ -203,7 +203,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*GbOpxnxlYV-B0Ty7v5KeFQ.png)
+![KYC-10](/images/Exchange/KYC-10.png)
 
 \9.  Once you have a nice photograph, upload it to your laptop and check  that it is under 5MB in file size. On a Mac, right click and select  ‘info’. On Windows right click and select ‘properties’. At this point,  check the box and proceed to the next screen.
 
@@ -211,7 +211,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*WXAN8mOkNcmbynV2aQ-2sw.png)
+![KYC-11](/images/Exchange/KYC-11.png)
 
 \10. Now take your ‘selfie’ photo. There are tips on how to take a photo that will not be rejected by the system on this screen.
 
@@ -219,7 +219,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*0FZzI-0UcYbuCGxptvxGtg.png)
+![KYC-12](/images/Exchange/KYC-12.png)
 
 \11. Upload the photo to the desktop and tick the box.
 
@@ -227,7 +227,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*0f9tlD1ca6gQOSGcItJKag.png)
+![KYC-13](/images/Exchange/KYC-13.png)
 
 \12.  Now you get to double check your name and date of birth are correct.  This step is extremely important as one of the biggest reasons for  failing KYC is incorrectly writing out your name and date of birth.
 
@@ -235,7 +235,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*etFncU8ybUuMZv8FaqRuuQ.png)
+![KYC-14](/images/Exchange/KYC-14.png)
 
 \13.  After confirming once again you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
 
@@ -243,7 +243,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*KzNa_Y8kgRnjuYaUpoJpuw.png)
+![KYC-15](/images/Exchange/KYC-15.png)
 
 \14. Please select your Country and the ID type that you will be uploading.
 
@@ -253,19 +253,19 @@ Once  you have selected your country and document type, you will be asked  uploa
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*Gi0KnxQpLfzRklChFkT_DQ.png)
+![KYC-16](/images/Exchange/KYC-16.png)
 
 
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*5kIAT3d6_9CayOpzln-XBg.png)
+![KYC-17](/images/Exchange/KYC-17.png)
 
 
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*wssLNuPbuQgjrDTFb0-XhA.png)
+![KYC-18](/images/Exchange/KYC-18.png)
 
 \15.  Once you have uploaded your document, you will be taken to a page,  asking you to upload a picture of yourself holding a white piece of  paper with the word: **NTS** and today’s date written on it in the following format: **DD/MM/YYYY**.
 
@@ -275,13 +275,13 @@ It is easiest to have someone else take this picture of you and then send it to 
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*F5xuDiS3zDpydSvCYkXG5Q.jpeg)
+![KYC-19](/images/Exchange/KYC-19.png)
 
 
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*y5sfwIbXPyKTq5ReyfCOCA.png)
+![KYC-20](/images/Exchange/KYC-20.png)
 
 \16. After the above steps have been completed, you will then land on a Submission Confirmation Page like this:
 
@@ -289,15 +289,18 @@ It is easiest to have someone else take this picture of you and then send it to 
 
 
 
-![img](https://cdn-images-1.medium.com/max/1600/1*syO5RvcPt0eNegNwk2WfRg.png)
+![KYC-21](/images/Exchange/KYC-21.png)
 
 \17. Congratulations, you’ve almost made it through! Whew!
+
 
 At this point, it is very important that you take a long walk or make yourself a cup of tea.
 
 **Please don’t try and log in to Nauticus again for five minutes while the system updates your verification status.**
 
+
 **Even  better, don’t log back into your account until you have received an  email saying that you have been verified. An approval/rejection email  will be issued by the system, the minute you are approved (or rejected).**
+
 
 If approved, congratulations, you are one step closer to trading on the Nauticus exchange!
 
@@ -305,7 +308,9 @@ And if you did not get verified for some reason, do not worry — we’re he
 
 Just navigate to the **Cases** section of your Account and copy the error code you find there.
 
+
 Then please email us at [support@nauticus.exchange](mailto:support@nauticus.exchange)  with the error code and any associated error messages, so that we can  help troubleshoot your KYC case and get you verified as soon as  possible.
+
 
 \18. **Note: after a failed KYC attempt, you will NOT be able to complete KYC without emailing Customer Support at** [**support@nauticus.exchange**](mailto:support@nauticus.exchange) **for troubleshooting first.**
 
@@ -313,13 +318,5 @@ Once, we have investigated and helped solve your issue, we will then re-enable y
 
 
 
+<div style="position:relative;height:0;padding-bottom:56.27%"><iframe src="https://www.youtube.com/embed/dyUclaWdqOM?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-
-<iframe data-width="854" data-height="480" data-src="/media/c15d94a3126e4580f7420c30edef648d?postId=d2b88f954625" data-media-id="c15d94a3126e4580f7420c30edef648d" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdyUclaWdqOM%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen="" src="https://medium.com/media/c15d94a3126e4580f7420c30edef648d?postId=d2b88f954625" width="700" height="393" frameborder="0"></iframe>
-
-
-
-
-
-
-https://medium.com/nauticus-blockchain/step-by-step-walkthrough-of-the-nauticus-exchange-kyc-process-d2b88f954625
