@@ -68,7 +68,7 @@ To migrate your Nauticus.io account to the [Nauticus.Exchange](https://nauticus.
 
 
 
-![Migrate-1](/images/Migrate-1.png)
+![Migrate-1](/images/Exchange/Migrate-1.png)
 
 
 
@@ -76,7 +76,7 @@ To migrate your Nauticus.io account to the [Nauticus.Exchange](https://nauticus.
 
 
 
-![Migrate-2](/images/Migrate-2.png)
+![Migrate-2](/images/Exchange/Migrate-2.png)
 
 
 
@@ -86,17 +86,19 @@ In some cases you may have already created an account on the [Nauticus.exchange]
 
 
 
-![Migrate-3](/images/Migrate-3.png)
+![Migrate-3](/images/Exchange/Migrate-3.png)
 
 
 
 5 - Creating a new exchange account will then progress you to the “Migration Complete” page.
 
-![Migrate-4](/images/Migrate-4.png)
+![Migrate-4](/images/Exchange/Migrate-4.png)
 
 6 - Congratulations, your account migration is complete!
 
-At this point, you may click the blue Sign In button and sign in to the [Nauticus.exchange](https://nauticus.exchange/).
+
+
+***At this point, you may click the blue Sign In button and sign in to the [Nauticus.exchange](https://nauticus.exchange/).***
 
 
 
