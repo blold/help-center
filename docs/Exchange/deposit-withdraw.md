@@ -1,5 +1,5 @@
 ---
-title: 2 - Deposits and Withdrawals
+title: Deposits and Withdrawals
 ---
 
 
