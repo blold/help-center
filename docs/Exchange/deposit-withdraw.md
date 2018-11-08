@@ -1,12 +1,14 @@
 ---
-title:  Deposits and Withdrawals
+title: 2 - Deposits and Withdrawals
 ---
+
 
 # Making Deposits & Withdrawals
 
 
 
 ## Steps for Deposits
+
 
 ### BANK Deposit
 

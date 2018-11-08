@@ -1,5 +1,5 @@
 ---
-title:  Open or Migrate an Account
+title: 1 - Open or Migrate an Account
 ---
 
 
