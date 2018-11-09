@@ -21,8 +21,8 @@ If you have an Australian Bank Account you will need to login to your own bank's
 If you've ever transferred money to a friend before, it is the exact same process.
 
 On the Commonwealth Bank's NetBank for example you would follow these steps:
-- select Transfers and Bpay 
-- then select which account from which you would like to transfer the funds
+- Select Transfers and Bpay 
+- Select which account from which you would like to transfer the funds
 - Select New Payee.
 - Enter the Account Name: Australian Innovators X19 PTY LTD
 - Enter the BSB: 112879
