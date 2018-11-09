@@ -45,11 +45,15 @@ However by enabling 2FA a hacker would need access to your password AND your pho
 
 To enable 2FA first head to Google Play or the Apple Store and download either Google Authenticator, or as an alternative we would recommend Authy as having additional features which are quite useful.
 
+
+
 **Google Authenticator**
 
 [Download for Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_AU)
 
 [Download for Apple](https://itunes.apple.com/au/app/google-authenticator/id388497605?mt=8)
+
+
 
 **Authy**
 
@@ -57,11 +61,20 @@ To enable 2FA first head to Google Play or the Apple Store and download either G
 
 [Download for Apple](https://itunes.apple.com/au/app/authy/id494168017?mt=8)
 
-Login to Nauticus.exchange and click the hamburger menu at the top right, then 'settings', then the box marked 'security', then 'enable two factor'.
 
-IMPORTANT: 2FA works by syncing up a randomly generated code using the time and date down to the second. This means your device should be set to 'network provided time' or else it won't work. Alternatively, you can go to the main menu of Google Authenticator, tap more: Settings. Tap 'Time Correction for Codes" and then tap 'Sync now'.
 
-Open up Google Authenticator and press the + symbol. Tap 'Scan a barcode'. Point your camera at the QR Code until the device says 'secret saved'.
+Next, login to [Nauticus Exchange](https://nauticus.exchange/accounts/signin) and click the "hamburger menu" at the top right >> settings >>  the box marked 'security' >> then 'enable two factor'.
+
+
+
+**IMPORTANT:** 2FA works by syncing up a randomly generated code using the time and date down to the second. This means your device should be set to 'network provided time' or else it won't work. Alternatively, you can go to the main menu of Google Authenticator, tap more: Settings. Tap 'Time Correction for Codes" and then tap 'Sync now'.
+
+**To Use:** 
+- Open up Google Authenticator
+- Press the + symbol
+- Tap 'Scan a barcode' 
+- Point camera at the QR Code 
+- Hold until device says 'secret saved'
 
 Make sure you save the long string of numbers on the screen and keep it somewhere safe (NOT ON YOUR DEVICE). It will help you to recover your account if you lose your device.
 
