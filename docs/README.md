@@ -1,6 +1,6 @@
 ---
 home: true 
-heroImage: /images/vuejsradar.png
+heroImage: /images/Logo-1.png
 actionText: Nauticus Exchange Help Center →
 actionLink: /Exchange/
 features:
@@ -13,3 +13,4 @@ features:
 footer: MIT Licensed | Copyright © 2018-present Andre Liem (www.vuejsradar.com) 
 title: FRONT PAGE
 ---
+
