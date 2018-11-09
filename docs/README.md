@@ -1,8 +1,8 @@
 ---
 home: true 
 heroImage: /images/vuejsradar.png
-actionText: Help Center Home →
-actionLink: /Introduction/
+actionText: Nauticus Exchange Help Center →
+actionLink: /Exchange/
 features:
 - title: Markdown Editing 
   details: Netlify's CMS provides a flexible Markdown Editor 
