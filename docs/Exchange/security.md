@@ -43,17 +43,19 @@ A username and password is easily hacked resulting in the loss of your funds.
 
 However by enabling 2FA a hacker would need access to your password AND your phone or device in order to log in to the exchange. It is also recommended that you seperately use a fingerprint or facial lock for your device, or a passcode.
 
-To enable 2FA first head to Google Play or the Apple Store and download Google Authenticator (or Authy).
+To enable 2FA first head to Google Play or the Apple Store and download either Google Authenticator, or as an alternative we would recommend Authy as having additional features which are quite useful.
 
-https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_AU
+**Google Authenticator**
 
-https://itunes.apple.com/au/app/google-authenticator/id388497605?mt=8
+[Download for Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_AU)
 
-https://play.google.com/store/apps/details?id=com.authy.authy&hl=en_AU
+[Download for Apple](https://itunes.apple.com/au/app/google-authenticator/id388497605?mt=8)
 
+**Authy**
 
+[Download for Android](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en_AU)
 
-https://itunes.apple.com/au/app/authy/id494168017?mt=8
+[Download for Apple](https://itunes.apple.com/au/app/authy/id494168017?mt=8)
 
 Login to Nauticus.exchange and click the hamburger menu at the top right, then 'settings', then the box marked 'security', then 'enable two factor'.
 
