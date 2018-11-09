@@ -11,6 +11,7 @@ title: Deposits and Withdrawals
 
 
 
+
 ### Bank Deposit
 
 
@@ -38,6 +39,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 Payments from credit card accounts are not supported.
 
 Third parties are not allowed to transfer funds to your account. Only send money from a bank account that is in your own name.
+
 
 
 
