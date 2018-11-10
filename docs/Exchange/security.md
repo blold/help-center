@@ -1,13 +1,13 @@
 ---
-title:  Security
+title:  3. Security
 ---
 
 
-# Securing Your Account
+# 3. Security
 
 
 
-## 2FA & TOTP
+## 3.1 2FA & TOTP
 
 The following section will explain the importance of securing your account with 2FA, and provides a quick setup guide to get your account configured with this vital layer of security.
 
