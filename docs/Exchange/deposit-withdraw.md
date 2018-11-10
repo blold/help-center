@@ -149,8 +149,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 (k)	Nauticus does not accept cash deposits 
 
-
-* * * 
+* * *
 
 
 **Crypto Deposits and Withdrawals on Nauticus Exchange**
@@ -176,12 +175,25 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-
 ## Depositing Crypto Assets
 
-{explain how to make a crypto deposit}
+The exact steps for depositing crypto assets will vary depending on which coin you are depositing and which wallet you are using. One option we can recommend from positive experience is Exodus multicurrency wallet which you can find at the following link
+
+https://www.exodus.io/ 
 
 
 
+* To begin the deposit please go to the  **DEPOSITS**  page and select  **Cryptocurrency**  as shown below.
 
-- 
+![Crypto-001.png](/images/Exchange/Deposit/Crypto-001.png)
+
+
+
+![Crypto-002.png](/images/Exchange/Deposit/Crypto-001.png)
+
+
+
+![Crypto-003.png](/images/Exchange/Deposit/Crypto-003.png)
+
+
+
