@@ -93,9 +93,13 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-* 
+
+
+* In the next screen you will be presented with all of the information your bank will need in order to make the transfer
 
 ![Deposit-008.png](/images/Exchange/Deposit/Deposit-008.png)
+
+
 
 
 
