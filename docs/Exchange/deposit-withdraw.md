@@ -150,7 +150,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 (k)	Nauticus does not accept cash deposits 
 
 
-
+* * * 
 
 
 **Crypto Deposits and Withdrawals on Nauticus Exchange**
