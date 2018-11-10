@@ -1,9 +1,9 @@
 ---
-title: 2. Deposits
+title: 2. Making Deposits
 ---
 
 
-# 2. Deposits
+# 2. Making Deposits
 
 
 
