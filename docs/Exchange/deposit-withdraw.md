@@ -69,7 +69,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-* The click  **NEXT**  to confirm our selection.
+* Then click  **NEXT**  to confirm our selection.
 
 ![Deposit-006.png](/images/Exchange/Deposit/Deposit-006.png)
 
