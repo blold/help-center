@@ -7,7 +7,7 @@ title: 2. Deposits
 
 
 
-## 2.1 Depositing FIAT
+## 2.1 Deposit FIAT
 
 
 
@@ -124,7 +124,28 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-### Terms and Conditions
+## 2.2 Deposit Crypto
+
+
+The exact steps for depositing crypto assets will vary depending on which coin you are depositing and which wallet you are using. 
+
+
+
+* To begin the deposit please go to the  **DEPOSITS**  page and select  **Cryptocurrency**  as shown below.
+
+![Crypto-001.png](/images/Exchange/Deposit/Crypto-001.png)
+
+
+
+![Crypto-002.png](/images/Exchange/Deposit/Crypto-001.png)
+
+
+
+![Crypto-003.png](/images/Exchange/Deposit/Crypto-003.png)
+
+
+
+## 2.3 Terms and Conditions
 
 **Fiat Deposits and Withdrawals on Nauticus Exchange**
 
@@ -150,6 +171,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 (k)	Nauticus does not accept cash deposits 
 
+
 * * *
 
 
@@ -172,27 +194,3 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 (h)	Nauticus is not responsible for any loss of funds or delays due to the incorrect entry of transaction details. We recommend users copy and paste the Nauticus deposit details and double check the details prior to completing your deposit
 
 (i)	Cryptocurrency deposits will be processed after the required number of blockchain confirmations are made
-
-
-
-
-## Depositing Crypto Assets
-
-The exact steps for depositing crypto assets will vary depending on which coin you are depositing and which wallet you are using. 
-
-
-
-* To begin the deposit please go to the  **DEPOSITS**  page and select  **Cryptocurrency**  as shown below.
-
-![Crypto-001.png](/images/Exchange/Deposit/Crypto-001.png)
-
-
-
-![Crypto-002.png](/images/Exchange/Deposit/Crypto-001.png)
-
-
-
-![Crypto-003.png](/images/Exchange/Deposit/Crypto-003.png)
-
-
-
