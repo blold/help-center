@@ -40,19 +40,24 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 * Look to the menu in the upper right and select  **DEPOSITS**  as shown below.
 
-
 ![Deposit-001.png](/images/Exchange/Deposit/Deposit-001.png)
 
- 
-* Next we will select Fiat from the selection screen as seen in the next image.
+
+
+
+* Next we will select  **Fiat**  from the selection screen as seen in the next image.
 
 ![Deposit-002.png](/images/Exchange/Deposit/Deposit-002.png)
 
 
 
+* From the next screen please read the  **Terms and Conditions**  then signal your acceptance by clicking the blue bar at the bottom.
+
 ![Deposit-003.png](/images/Exchange/Deposit/Deposit-003.png)
 
 
+
+* 
 
 ![Deposit-004.png](/images/Exchange/Deposit/Deposit-004.png)
 
