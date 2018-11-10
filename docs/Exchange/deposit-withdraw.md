@@ -45,9 +45,13 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
+
+
 * Next we will select  **Fiat**  from the selection screen as seen in the next image.
 
 ![Deposit-002.png](/images/Exchange/Deposit/Deposit-002.png)
+
+
 
 
 
@@ -57,15 +61,21 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
+
+
 * The next screen provides a drop-down menu where you can select the currency you wish to deposit.
 
 ![Deposit-004.png](/images/Exchange/Deposit/Deposit-004.png)
 
 
 
+
+
 * In this case we will highlight  **USD**
 
 ![Deposit-005.png](/images/Exchange/Deposit/Deposit-005.png)
+
+
 
 
 
@@ -77,9 +87,13 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
+* Enter the amount you wish to deposit in the space where you see  **500**  entered as an example and click  **NEXT**
+
 ![Deposit-007.png](/images/Exchange/Deposit/Deposit-007.png)
 
 
+
+* 
 
 ![Deposit-008.png](/images/Exchange/Deposit/Deposit-008.png)
 
