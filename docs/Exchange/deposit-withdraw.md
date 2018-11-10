@@ -179,7 +179,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 The exact steps for depositing crypto assets will vary depending on which coin you are depositing and which wallet you are using. One option we can recommend from positive experience is Exodus multicurrency wallet which you can find at the following link
 
-https://www.exodus.io/ 
+**Windows, Mac and Linux**- [Exodus multi-currency wallet](https://www.exodus.io/) 
 
 
 
