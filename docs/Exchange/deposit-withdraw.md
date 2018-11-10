@@ -121,6 +121,36 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-### Crypto Deposit
+### Terms and Conditions for Fiat
+
+
+**Deposits and Withdrawals on Nauticus Exchange**
+
+(a)	By making a deposit or withdrawal on the Nauticus Exchange platform, you agree to these terms and conditions and to accept the risks associated with use as outlined herein.
+
+(b)	You may deposit fiat currency into your accounts via direct bank transfer or BPAY and other payment processing providers (when available). These deposits and withdrawals are subject to terms and conditions (and timings) of the banks and/or processing providers involved. Third parties may charge their own fees. 
+
+(c)	Upon signup, platform users are provided designated token deposit addresses for each token type (XRP or Litecoin for example). Users must only deposit the relevant token into each address or risk losing their funds. Users must not disclose their deposit address to any other person when transferring tokens to or from their account.  New deposit addresses are generated for each token transfer for security reasons.
+
+(d)	Blockchain networks are operated by third parties, and are not under the control of Nauticus. Nauticus takes no responsibility or accepts any liability for the loss of tokens due to use of these networks. Likewise, transfer speed and confirmation times are also outside the control of Nauticus. Third party fees may be taken during the transfer process.  
+
+(e)	Nauticus reserves its right to refuse to accept any deposit of fiat or cryptocurrency for any reason.
+
+(f)	When making wire money fiat transfers, please ensure to make your payment EXACTLY as shown with the unique reference code as message to receiver.
+
+(g)	We are not responsible for loss of funds or delays due to incorrect deposit details placed onto your withdrawals. It is always recommended to copy and paste the Nauticus deposit details fully and double check details prior to completing your deposit
+
+(h)	Note that international funds transfer may incur additional costs between intermediary banks. Nauticus will only process funds received and will not honour any costs charged by banks
+
+(i)	Cryptocurrency deposits are subjected to mining fees on the blockchain, Nauticus will only process funds received and will not honour any cost incurred by the blockchain  
+
+(j)	All payments to Nauticus are subjected to user specific minimum and maximum deposit requirements 
+
+(k)	Nauticus does not accept cash deposits 
+
+
+
+
+## Crypto Deposit
 
 {explain how to make a crypto deposit}
