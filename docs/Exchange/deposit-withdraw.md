@@ -27,8 +27,8 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 - Enter the Account Name
 - Enter the BSB
 - Enter the Account Number
-- Enter the amount you wish to transfer: xxxxxxx
-- Enter the Unique Deposit Code: xxxxxx
+- Enter the amount you wish to transfer
+- Enter the Unique Deposit Code
 
 
 
@@ -106,8 +106,6 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 ![Deposit-010.png](/images/Exchange/Deposit/Deposit-010.png)
 
 
-
-![Deposit-001.png](/images/Exchange/Deposit/Deposit-001.png)
 
 
 
