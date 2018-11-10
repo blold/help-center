@@ -57,17 +57,23 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-* 
+* The next screen provides a drop-down menu where you can select the currency you wish to deposit.
 
 ![Deposit-004.png](/images/Exchange/Deposit/Deposit-004.png)
 
 
 
+* In this case we will highlight  **USD**
+
 ![Deposit-005.png](/images/Exchange/Deposit/Deposit-005.png)
 
 
 
+* The click  **NEXT**  to confirm our selection.
+
 ![Deposit-006.png](/images/Exchange/Deposit/Deposit-006.png)
+
+
 
 
 
