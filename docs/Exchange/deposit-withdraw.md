@@ -154,3 +154,21 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 ## Crypto Deposit
 
 {explain how to make a crypto deposit}
+
+
+
+
+
+
+### Terms & Conditions for Crypto
+
+
+- Crypto assets will be deposited into your wallet after the required number of confirmations has been met (this number can vary between coins) 
+- The address cannot be used to receive tokens from an ICO. 
+- Any other assets transferred to this address other than Bitcoin cannot be recovered 
+- Transactions that occur on the blockchain incur mining fees for processing the transaction.
+- Nauticus will only credit what is received in the user’s wallet. 
+- Nauticus is not responsible for any fees that occur during the transfer 
+- Cryptocurrency deposits are subject to mining/transaction fees on the blockchain, Nauticus will only process funds received and will not honor any cost incurred using the blockchain  
+- Nauticus is not responsible for any loss of funds or delays due to the incorrect entry of transaction details. We recommend users copy and paste the Nauticus deposit details and double check the details prior to completing your deposit
+- Cryptocurrency deposits will be processed after the required number of blockchain confirmations are made
