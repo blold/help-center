@@ -103,9 +103,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-![Deposit-009.png](/images/Exchange/Deposit/Deposit-009.png)
-
-
+* 
 
 ![Deposit-010.png](/images/Exchange/Deposit/Deposit-010.png)
 
@@ -113,7 +111,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-**IMPORTANT!** It is vital that you enter the Unique Deposit Code number as the 'description on recipient's statement' 'comment' or 'note'. Your transfer will be delayed if you do not complete this step. The Unique Deposit Code changes each time. Please make sure you check this carefully.
+**IMPORTANT!** It is vital that you enter the *Unique Deposit Code* number as the *'ddescription on recipient's statement' 'comment' or 'note'*. Your transfer will be delayed if you do not complete this step. The *Unique Deposit Code* changes each time. Please make sure you check this carefully.
 
 
 
@@ -125,10 +123,9 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-### Terms and Conditions for Fiat
+### Terms and Conditions
 
-
-**Deposits and Withdrawals on Nauticus Exchange**
+**Fiat Deposits and Withdrawals on Nauticus Exchange**
 
 (a)	By making a deposit or withdrawal on the Nauticus Exchange platform, you agree to these terms and conditions and to accept the risks associated with use as outlined herein.
 
@@ -154,25 +151,35 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
+**Crypto Deposits and Withdrawals on Nauticus Exchange**
 
-## Crypto Deposit
+(a)	Crypto assets will be deposited into your wallet after the required number of confirmations has been met *(this number can vary between coins)* 
+
+(b)	The address cannot be used to receive tokens from an ICO. 
+
+(c)	Any other assets transferred to this address other than Bitcoin cannot be recovered 
+
+(d)	Transactions that occur on the blockchain incur mining fees for processing the transaction
+
+(e)	Nauticus will only credit what is received in the user’s wallet. 
+
+(f)	Nauticus is not responsible for any fees that occur during the transfer 
+
+(g)	Cryptocurrency deposits are subject to mining/transaction fees on the blockchain, Nauticus will only process funds received and will not honor any cost incurred using the blockchain  
+
+(h) Nauticus is not responsible for any loss of funds or delays due to the incorrect entry of transaction details. We recommend users copy and paste the Nauticus deposit details and double check the details prior to completing your deposit
+
+(i)Cryptocurrency deposits will be processed after the required number of blockchain confirmations are made
+
+
+
+
+
+## Depositing Crypto Assets
 
 {explain how to make a crypto deposit}
 
 
 
 
-
-
-### Terms & Conditions for Crypto
-
-
-- Crypto assets will be deposited into your wallet after the required number of confirmations has been met (this number can vary between coins) 
-- The address cannot be used to receive tokens from an ICO. 
-- Any other assets transferred to this address other than Bitcoin cannot be recovered 
-- Transactions that occur on the blockchain incur mining fees for processing the transaction.
-- Nauticus will only credit what is received in the user’s wallet. 
-- Nauticus is not responsible for any fees that occur during the transfer 
-- Cryptocurrency deposits are subject to mining/transaction fees on the blockchain, Nauticus will only process funds received and will not honor any cost incurred using the blockchain  
-- Nauticus is not responsible for any loss of funds or delays due to the incorrect entry of transaction details. We recommend users copy and paste the Nauticus deposit details and double check the details prior to completing your deposit
-- Cryptocurrency deposits will be processed after the required number of blockchain confirmations are made
+- 
