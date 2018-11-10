@@ -151,6 +151,8 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
+
+
 **Crypto Deposits and Withdrawals on Nauticus Exchange**
 
 (a)	Crypto assets will be deposited into your wallet after the required number of confirmations has been met *(this number can vary between coins)* 
@@ -167,9 +169,9 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 (g)	Cryptocurrency deposits are subject to mining/transaction fees on the blockchain, Nauticus will only process funds received and will not honor any cost incurred using the blockchain  
 
-(h) Nauticus is not responsible for any loss of funds or delays due to the incorrect entry of transaction details. We recommend users copy and paste the Nauticus deposit details and double check the details prior to completing your deposit
+(h)	Nauticus is not responsible for any loss of funds or delays due to the incorrect entry of transaction details. We recommend users copy and paste the Nauticus deposit details and double check the details prior to completing your deposit
 
-(i)Cryptocurrency deposits will be processed after the required number of blockchain confirmations are made
+(i)	Cryptocurrency deposits will be processed after the required number of blockchain confirmations are made
 
 
 
