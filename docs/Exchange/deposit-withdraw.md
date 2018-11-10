@@ -32,15 +32,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 In the next example we will walk you through the steps for starting a deposit of USD.
 
-
-
- 
-
- 
-
- 
-
-![Machine generated alternative text: BALANCES  BALANCES  DEPOSITS  WITHDRAWALS  DEPOSITS  TRANSACTIONS  *ISTORY ](file:///C:/Users/josep/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+![Deposit-001.png](/images/Exchange/Deposit-001.png)
 
  
 
