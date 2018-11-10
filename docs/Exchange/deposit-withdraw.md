@@ -22,11 +22,11 @@ If you've ever transferred money to a friend before, it is the exact same proces
 
 On the Commonwealth Bank's NetBank for example you would follow these steps:
 - Select Transfers and Bpay 
-- Select which account from which you would like to transfer the funds
+- Select the account from which you would like to transfer the funds
 - Select New Payee.
-- Enter the Account Name: xxxxxxxxxxxxxxxxxx
-- Enter the BSB: xxxxxxxxxx
-- Enter the Account Number: xxxxxxxxxx
+- Enter the Account Name
+- Enter the BSB
+- Enter the Account Number
 - Enter the amount you wish to transfer: xxxxxxx
 - Enter the Unique Deposit Code: xxxxxx
 
