@@ -3,60 +3,13 @@ title: Open or Migrate an Account
 ---
 
 
-# Open or Migrate an Account
-
-
-
-## Steps to Open an Account
-
-
-
-To open up an account on Nauticus exchange, please complete the following steps:
-
-
-
-1 - Navigate to <https://nauticus.exchange/>
-
-
-
-2 - Click the blue “sign up” button in the top right corner. 
-
-
-
-***WARNING: IF YOU ALREADY CREATED AN ACCOUNT DURING THE NAUTICUS ICO, PLEASE SKIP TO "ICO Account Migration" BELOW. Otherwise we will not be able to transfer your NTS balance to your exchange wallet.***
-
-
-
-3 - Once you are directed to the following page, fill in your email address and secure password. 
-
-
-
-
-![Sign-Up](/images/Exchange/Sign-Up.png)
+# 1. Getting Started
 
 
 
 
 
-4 -  After filling in your email address, secure password and checking the three boxes (terms and conditions, privacy policy and AML Policy) please click the blue “sign up” button at the bottom.
-
-
-
-5 - Nauticus will then send an email to your registered email address asking you to verify. If you do not see it in your inbox then plese check your spam folder. If you don’t see it in either, please contact support@nauticus.exchange and we will assist you. 
-
-
-
-6 - After verifying your email, you are ready to sign into Nauticus.exchange.
-
-
-
-7 - Once signed in, please complete our “know your customer” (KYC) process. You can not use the exchange without this. (Link to “how to KYC).
-
-
-
-
-
-## Steps to Migrate an Account
+## 1.1 Migrate your account
 
 Account Migration is ONLY for ICO participants and those with accounts on the Nauticus.io site.
 
@@ -104,15 +57,63 @@ In some cases you may have already created an account on the [Nauticus.exchange]
 
 
 
+## 1.2 Open an Account
+
+
+
+To open up an account on Nauticus exchange, please complete the following steps:
+
+
+
+1 - Navigate to <https://nauticus.exchange/>
+
+
+
+2 - Click the blue “sign up” button in the top right corner. 
+
+
+
+***WARNING: IF YOU ALREADY CREATED AN ACCOUNT DURING THE NAUTICUS ICO, PLEASE SKIP TO "ICO Account Migration" BELOW. Otherwise we will not be able to transfer your NTS balance to your exchange wallet.***
+
+
+
+3 - Once you are directed to the following page, fill in your email address and secure password. 
+
+
+
+![Sign-Up.png](/images/Exchange/Sign-Up.png)
+
+
+
+
+
+4 -  After filling in your email address, secure password and checking the three boxes (terms and conditions, privacy policy and AML Policy) please click the blue “sign up” button at the bottom.
+
+
+
+5 - Nauticus will then send an email to your registered email address asking you to verify. If you do not see it in your inbox then plese check your spam folder. If you don’t see it in either, please contact support@nauticus.exchange and we will assist you. 
+
+
+
+6 - After verifying your email, you are ready to sign into Nauticus.exchange.
+
+
+
+7 - Once signed in, please complete our “know your customer” (KYC) process. You can not use the exchange without this. (Link to “how to KYC).
+
+
+
+
+
 # Verifying Your Account
 
 
 
-## Steps to Complete KYC
+## 1.3 Complete KYC
 
 
 
-# Step by step guide to completing KYC on Nauticus Exchange
+### Step by step guide to completing KYC on Nauticus Exchange
 
 Welcome  to our step by step guide to the new and improved KYC process on  Nauticus Exchange. We’ve refined the process to make it as easy to  understand as possible. If you have any suggestions for further  improvements, please let our [Telegram moderators ](https://t.me/nauticusblockchain)know.
 
@@ -304,9 +305,12 @@ At this point, it is very important that you take a long walk or make yourself a
 
 If approved, congratulations, you are one step closer to trading on the Nauticus exchange!
 
-And if you did not get verified for some reason, do not worry — we’re here to help!
+And if you did not get verified for some reason, do not worry — we are here to help in the next section! 
 
-Just navigate to the **Cases** section of your Account and copy the error code you find there.
+
+## 1.4 Issues with KYC?
+
+If you have experienced issues with your KYC verification, please navigate to the **Cases** section of your Account and copy the error code you find there.
 
 
 Then please email us at [support@nauticus.exchange](mailto:support@nauticus.exchange)  with the error code and any associated error messages, so that we can  help troubleshoot your KYC case and get you verified as soon as  possible.
