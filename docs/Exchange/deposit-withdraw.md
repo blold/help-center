@@ -1,18 +1,108 @@
 ---
-title: Deposits and Withdrawals
+title: 2. Deposits
 ---
 
 
-# Making Deposits & Withdrawals
+# 2. Deposits
 
 
 
-## Steps for Deposits
+## 2.1 Depositing FIAT
+
+
+
+### 2.1.1 Sending from Overseas
+
+**In the next example we will walk you through the steps for starting a deposit of USD.**
+
+
+
+- Look to the menu in the upper right and select  **DEPOSITS**  as shown below.
+
+![Deposit-001.png](/images/Exchange/Deposit/Deposit-001.png)
 
 
 
 
-### Bank Deposit
+
+- Next we will select  **Fiat**  from the selection screen as seen in the next image.
+
+![Deposit-002.png](/images/Exchange/Deposit/Deposit-002.png)
+
+
+
+
+
+- From the next screen please read the  **Terms and Conditions**  then signal your acceptance by clicking the blue bar at the bottom.
+
+![Deposit-003.png](/images/Exchange/Deposit/Deposit-003.png)
+
+
+
+
+
+- The next screen provides a drop-down menu where you can select the currency you wish to deposit.
+
+![Deposit-004.png](/images/Exchange/Deposit/Deposit-004.png)
+
+
+
+
+
+- In this case we will highlight  **USD**
+
+![Deposit-005.png](/images/Exchange/Deposit/Deposit-005.png)
+
+
+
+
+
+- Then click  **NEXT**  to confirm our selection.
+
+![Deposit-006.png](/images/Exchange/Deposit/Deposit-006.png)
+
+
+
+
+
+- Enter the amount you wish to deposit in the space where you see  **500**  entered as an example and click  **NEXT**
+
+![Deposit-007.png](/images/Exchange/Deposit/Deposit-007.png)
+
+
+
+
+
+- In the next screen you will be presented with all of the information your bank will need in order to make the transfer
+
+![Deposit-008.png](/images/Exchange/Deposit/Deposit-008.png)
+
+
+
+
+
+- Please take a moment to review the information in the Thank You screen below then click  **NEXT**
+
+![Deposit-010.png](/images/Exchange/Deposit/Deposit-010.png)
+
+
+
+
+**IMPORTANT!** It is vital that you enter the *Unique Deposit Code* number as the *'ddescription on recipient's statement' 'comment' or 'note'*. Your transfer will be delayed if you do not complete this step. The *Unique Deposit Code* changes each time. Please make sure you check this carefully.
+
+
+
+**Please Note:** Bank transfers in Australia can take 1-2 business days to complete. Transfers on weekends on public holidays will be delayed.
+
+*Payments from credit card accounts are not supported.*
+
+*Third parties are not allowed to transfer funds to your account. Only send money from a bank account that is in your own name.*
+
+**For more information please see the Terms and Conditions below.**
+
+
+
+### 2.1.2 Sending from Australia
 
 
 
@@ -31,95 +121,6 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 - Enter the Unique Deposit Code
 
 
-
-
-
-**In the next example we will walk you through the steps for starting a deposit of USD.**
-
-
-
-* Look to the menu in the upper right and select  **DEPOSITS**  as shown below.
-
-![Deposit-001.png](/images/Exchange/Deposit/Deposit-001.png)
-
-
-
-
-
-
-* Next we will select  **Fiat**  from the selection screen as seen in the next image.
-
-![Deposit-002.png](/images/Exchange/Deposit/Deposit-002.png)
-
-
-
-
-
-* From the next screen please read the  **Terms and Conditions**  then signal your acceptance by clicking the blue bar at the bottom.
-
-![Deposit-003.png](/images/Exchange/Deposit/Deposit-003.png)
-
-
-
-
-
-* The next screen provides a drop-down menu where you can select the currency you wish to deposit.
-
-![Deposit-004.png](/images/Exchange/Deposit/Deposit-004.png)
-
-
-
-
-
-* In this case we will highlight  **USD**
-
-![Deposit-005.png](/images/Exchange/Deposit/Deposit-005.png)
-
-
-
-
-
-* Then click  **NEXT**  to confirm our selection.
-
-![Deposit-006.png](/images/Exchange/Deposit/Deposit-006.png)
-
-
-
-
-
-* Enter the amount you wish to deposit in the space where you see  **500**  entered as an example and click  **NEXT**
-
-![Deposit-007.png](/images/Exchange/Deposit/Deposit-007.png)
-
-
-
-
-
-* In the next screen you will be presented with all of the information your bank will need in order to make the transfer
-
-![Deposit-008.png](/images/Exchange/Deposit/Deposit-008.png)
-
-
-
-
-
-* Please take a moment to review the information in the Thank You screen below then click  **NEXT**
-
-![Deposit-010.png](/images/Exchange/Deposit/Deposit-010.png)
-
-
-
-
-
-**IMPORTANT!** It is vital that you enter the *Unique Deposit Code* number as the *'ddescription on recipient's statement' 'comment' or 'note'*. Your transfer will be delayed if you do not complete this step. The *Unique Deposit Code* changes each time. Please make sure you check this carefully.
-
-
-
-**Please Note:** Bank transfers in Australia can take 1-2 business days to complete. Transfers on weekends on public holidays will be delayed.
-
-*Payments from credit card accounts are not supported.*
-
-*Third parties are not allowed to transfer funds to your account. Only send money from a bank account that is in your own name.*
 
 
 
