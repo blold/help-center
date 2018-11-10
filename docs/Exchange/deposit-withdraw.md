@@ -103,7 +103,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-* 
+* Please take a moment to review the information in the Thank You screen below then click  **NEXT**
 
 ![Deposit-010.png](/images/Exchange/Deposit/Deposit-010.png)
 
