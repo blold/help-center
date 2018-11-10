@@ -32,7 +32,13 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
+
+
 **In the next example we will walk you through the steps for starting a deposit of USD.**
+
+
+
+* Look to the menu in the upper right and select  **DEPOSITS**  as shown below.
 
 
 
