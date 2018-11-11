@@ -4,6 +4,7 @@ const path = require('path');
 
 let DirStructure = dirTree('docs/', {normalizePath: true}).children;
 let mdFiles = [];
+
 DirStructure.forEach(d => {
   if (d.name !== ".vuepress" && d.name !== "README.md") {
     mdFiles.push({
@@ -16,7 +17,7 @@ DirStructure.forEach(d => {
     })
   }
 });
-
+console.log(mdFiles);
 module.exports = {
   title: 'Nauticus: Help Center',
   description: 'If you\'ve got a problem, yo, i\'ll solve it 😎!',
