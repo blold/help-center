@@ -137,9 +137,13 @@ The exact steps for depositing crypto assets will vary depending on which coin y
 
 
 
+* Select the asset you will be depositing - we'll select Bitcoin for this example.
+
 ![Crypto-002.png](/images/Exchange/Deposit/Crypto-002.png)
 
 
+
+* Copy the Deposit Address from the next screen or use the QR code as appropriate.
 
 ![Crypto-003.png](/images/Exchange/Deposit/Crypto-003.png)
 
