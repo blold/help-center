@@ -1,7 +1,7 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs && echo \"/*    /index.html   200\" >> ./docs/.vuepress/dist/_redirects"
   },
   "devDependencies": {},
   "dependencies": {
