@@ -143,7 +143,7 @@ The exact steps for depositing crypto assets will vary depending on which coin y
 
 
 
-* Copy the Deposit Address from the next screen or use the QR code as appropriate.
+* Copy the Deposit Address from the next screen or use the QR code as appropriate for your wallet.
 
 ![Crypto-003.png](/images/Exchange/Deposit/Crypto-003.png)
 
