@@ -6,11 +6,15 @@ title:  7. Terms & Conditions
 
 ## 7.1 Acceptance
 7.1.1 The terms and conditions of use stated below ("Terms and Conditions") constitute a legally binding agreement between you and Nautica Group PTY Limited (“Nautica Group”, “we” or “us”).
+
 7.1.2 By using this website (“Site”) and any services provided by Nautica Group (“Services”), you
 agree to accept and comply with the Terms and Conditions.
+
 7.1.3 As used herein, a reference to Nautica Group refers to its owners, directors, investors,
 employees or other related parties.
+
 7.1.4 All information and products listed on this Site is in reference to plans and future direction of Nautica Group’s business and is not a confirmation of ready to use product, nor is it a guarantee of release in the future.
+
 7.1.5 By using the Site and/or Services, you accept and understand that Nautica Group may charge certain fees for transactions made through the Site and/or Services (“Commission”).
 
 
@@ -67,21 +71,24 @@ requests pursuant to these Terms and Condition, or be subject to suspension or t
 at any time, subjected to the settlement of transactions pending on your Account.
 7.5.2 You agree that Nautica Group may, by giving notice, in its sole discretion terminate your
 account and all access to Nautica Group’s Sites. Nautica Group may also:
-	a. terminate, limit or suspend the service of your account
-	b. prohibit access to the Site and its content
-	c. delay or remove hosted content, services and tools and 
-	d. take all technical and legal steps we deem necessary to restrict 	you from the Site, should we suspect you are breaching the agreement 	set out in these Terms and Conditions.
+- terminate, limit or suspend the service of your account
+- prohibit access to the Site and its content
+- delay or remove hosted content, services and tools and 
+- take all technical and legal steps we deem necessary to restrict 	you from the Site, should we suspect you are breaching the agreement set out in these Terms and Conditions.
+
 7.5.3 Additionally, we may, in appropriate circumstances and at our discretion, suspend or terminate your Account for any reason, including without limitation:
-	a. failure to pay or fraudulent payment for transactions
-	b. attempting to gain unauthorized access to the Site or another 		user's account or providing assistance to others' attempting to do 		so
-	c. usage of the Services to perform illegal activities such as money	laundering, illegal gambling operations, financing terrorism, or
-	other criminal activities
-	d. overcoming software security features limiting use of or 			protecting any content
-	e. violations of these Terms and Conditions,
-	f. unexpected operational difficulties, or
-	g. upon the request of law enforcement or other government agencies,	if deemed to be legitimate and compelling by Nautica Group, acting 		in its sole discretion.
+- failure to pay or fraudulent payment for transactions
+- attempting to gain unauthorized access to the Site or another user's account or providing assistance to others' attempting to do so
+- usage of the Services to perform illegal activities such as money	laundering, illegal gambling operations, financing terrorism, or other criminal activities
+- overcoming software security features limiting use of or  protecting any content
+- violations of these Terms and Conditions,
+- unexpected operational difficulties, or
+- upon the request of law enforcement or other government agencies,	if deemed to be legitimate and compelling by Nautica Group, acting in its sole discretion.
+
 7.5.4 Nautica Group also reserves the right to cancel/terminate unverified Accounts which have been inactive for over 6 months or to discontinue providing service for such Accounts.
+
 7.5.5 You agree that Nautica Group will not be liable to you or to any third party for termination of your Account or access to the Site. The suspension of an Account shall not affect the payment of the commissions due to Nautica Group for past transactions. Upon termination, you must provide details for a valid bank account to allow for the transfer of any currencies credited to your account.
+
 7.5.6 Termination of your Account does not prejudice or in any way limit any rights of Nautica Group accruing during your use of the Site or Services, including any rights contained in these Terms and Conditions.
 
 Section 6. Limitation of Liability and warranties
