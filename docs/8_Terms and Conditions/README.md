@@ -4,115 +4,125 @@ title:  7. Terms & Conditions
 
 # 7. Terms & Conditions
 
-Section 1. Acceptance
-1.1 The terms and conditions of use stated below ("Terms and Conditions") constitute a legally
+## 7.1 Acceptance
+7.1.1 The terms and conditions of use stated below ("Terms and Conditions") constitute a legally
 binding agreement between you and Nautica Group PTY Limited (“Nautica Group”, “we” or
 “us”).
-1.2 By using this website (“Site”) and any services provided by Nautica Group (“Services”), you
+7.1.2 By using this website (“Site”) and any services provided by Nautica Group (“Services”), you
 agree to accept and comply with the Terms and Conditions.
-1.3 As used herein, a reference to Nautica Group refers to its owners, directors, investors,
+7.1.3 As used herein, a reference to Nautica Group refers to its owners, directors, investors,
 employees or other related parties.
-1.4 All information and products listed on this Site is in reference to plans and future direction of
+7.1.4 All information and products listed on this Site is in reference to plans and future direction of
 Nautica Group’s business and is not a confirmation of ready to use product, nor is it a
 guarantee of release in the future.
-1.5 By using the Site and/or Services, you accept and understand that Nautica Group may charge
+7.1.5 By using the Site and/or Services, you accept and understand that Nautica Group may charge
 certain fees for transactions made through the Site and/or Services (“Commission”).
-Section 2. Risks and Limitations
-2.1 The trading of digital and fiat currencies involves significant risk. Prices can and do fluctuate on
+
+
+
+## 7.2 Risks and Limitations
+
+7.2.1 The trading of digital and fiat currencies involves significant risk. Prices can and do fluctuate on
 any given day and are inherently unstable. Due to such price fluctuations, you may increase or
 lose value in your assets at any given moment. There is an inherent risk that losses may be
 experienced through buying, selling, or trading anything on the market. By using the Site and/or
 Services, you acknowledge, accept and assume all such risks.
-2.2 Cryptocurrencies are not backed by any government or physical commodities; instead they are
+7.2.2 Cryptocurrencies are not backed by any government or physical commodities; instead they are
 unique “fiat” currencies backed by technology and trust. You should carefully assess whether
 your financial situation and tolerance for risk is suitable for buying, selling or trading
 Cryptocurrency.
-2.3 We use our banking providers in order to receive client moneys and making payments. Our
+7.2.3 We use our banking providers in order to receive client moneys and making payments. Our
 banking providers DO NOT transfer, exchange, or provide any services in connection with
 Cryptocurrencies.
-2.4 Nauticoin is NOT a stock or any other investment instrument or security and should not be
+7.2.4 Nauticoin is NOT a stock or any other investment instrument or security and should not be
 under any circumstances be considered as such. The Nauticoin tokens (“Nauticoin Token” or
 “Token”) on offer have not been registered with any government, legal entity, or registry.
 Nauticoin is NOT a share, stake, debt, security, or equivalent right, and does not confer to hits
 holder any rights to future profits, shares, intellectual property or receiving of future revenue
 of Nautica Group. Nauticoin does NOT represent any voting or governance rights to the
 development, operations, ownership, and decision process of Nautica Group.
-2.5 Nautica Group have the right to restrict, ban or suspend transactions made on the Site or with
+7.2.5 Nautica Group have the right to restrict, ban or suspend transactions made on the Site or with
 Nautica Group should there be any suspicions of illegal activity or a breach of the Terms and
 Conditions.
-Section 3. Limited Rights of Use
-3.1 Unless otherwise specified, all materials on this Site are the property of Nautica Group and are
+
+
+
+## 7.3 Limited Rights of Use
+7.3.1 Unless otherwise specified, all materials on this Site are the property of Nautica Group and are
 protected by copyright, trademark and other applicable laws. You are permitted to view,
 download, print a copy of the materials from this solely for your personal, informational, noncommercial
 use, provided you keep intact all copyright and other proprietary notices. 
-3.2 Trademarks, video, logos, and service marks, software, audio, data, trades, prices, text, charts,
+7.3.2 Trademarks, video, logos, and service marks, software, audio, data, trades, prices, text, charts,
 graphs, images, graphics and any other material appearing on the Site are all the property of
 Nautica Group unless otherwise specified, in which case such material belong to their
 respective rights holders. These materials should under no circumstances be copied, modified,
 posted, republished, reproduced, collected, distributed, uploaded, transmitted, scraped, or
 collected by any means and in any form, manual or automated, unless specifically approved by
 Nautica Group.
-3.3 The use of any such materials listed in Section 3 on any other website or networked computer
+7.3.3 The use of any such materials listed in Section 3 on any other website or networked computer
 environment for any other purpose is strictly prohibited; any such actions which violate Nautica
 Group’s copyright, trademarks and other applicable and relevant rights is a breach of these
 Terms and Conditions and may be subject to legal action.
 Section 4. Maintaining Your Account
-4.1 By registering an account on the Site (“Account”), you agree to provide Nautica Group with
+7.4.1 By registering an account on the Site (“Account”), you agree to provide Nautica Group with
 accurate, current, and complete information about yourself as instructed through the Site’s
 registration process, and be responsible for keeping this information updated at all times.
-4.2 You agree that you will not use any Account other than your own, fraudulently impersonate or
+7.4.2 You agree that you will not use any Account other than your own, fraudulently impersonate or
 access the Account of any other user at any time, or assist others in obtaining unauthorized
 access. The creation or use of Accounts without obtaining the prior express permission from
 Nautica Group will result in the immediate suspension of all said Accounts, as well as all
 pending purchase/sale offers. Attempting to do the above mentioned or assisting others, or the
 distribution of instructions, software or tools for that purpose, will result in the Accounts of
 such persons being terminated.
-4.3 Should you be in breach of above Terms and Conditions in 4.1, Nautica Group may elect to take
+7.4.3 Should you be in breach of above Terms and Conditions in 4.1, Nautica Group may elect to take
 further action against you after termination of your account.
-4.4 You are responsible for your Account information and its confidentiality, including:
+7.4.4 You are responsible for your Account information and its confidentiality, including:
 safeguarding your cryptocurrency wallets, your password, financial information, personal
 information and contact details, and for all activity including transactions conducted or posted
 to your Account.
-4.5 We may request additional information from you, including authenticating documents if we
+7.4.5 We may request additional information from you, including authenticating documents if we
 deem there to be suspicious activity on your Account.
-4.6 Any transactions that have been deemed suspicious will be frozen pending our review process.
-4.7 By using Nautica Group’s Site and its Services, you accept that you must comply with any
+7.4.6 Any transactions that have been deemed suspicious will be frozen pending our review process.
+7.4.7 By using Nautica Group’s Site and its Services, you accept that you must comply with any
 requests pursuant to these Terms and Condition, or be subject to suspension or termination of
 your Account.
-4.8 If your account has been subjected to unauthorized access, account, password, or any other
+7.4.8 If your account has been subjected to unauthorized access, account, password, or any other
 security breaches, you are required to notify Nautica Group immediately.
-4.9 You agree that you will not use the Site or Services to perform criminal activity of any sort,
+7.4.9 You agree that you will not use the Site or Services to perform criminal activity of any sort,
 including but not limited to, money laundering, illegal gambling operations, terrorist financing,
 or malicious hacking.
-4.10 By creating an Account, you also consent to receiving electronic communications from Nautica
+7.4.10 By creating an Account, you also consent to receiving electronic communications from Nautica
 Group. These communications may include notices about your Account and are part of your
 relationship with us.
-4.11 We may also send you promotional communications via email, including, but not limited to,
+7.4.11 We may also send you promotional communications via email, including, but not limited to,
 special offers, surveys, newsletters and other news and information Nautica Group believes to
 be of interest to you. You may opt out of receiving these promotional emails at any time by
 following the unsubscribe instructions provided therein.
-Section 5. Termination
-5.1 You have the right to terminate your relationship with Nautica Group, and close your Account
+
+
+
+## 7.5 Termination
+7.5.1 You have the right to terminate your relationship with Nautica Group, and close your Account
 at any time, subjected to the settlement of transactions pending on your Account.
-5.2 You agree that Nautica Group may, by giving notice, in its sole discretion terminate your
+7.5.2 You agree that Nautica Group may, by giving notice, in its sole discretion terminate your
 account and all access to Nautica Group’s Sites. Nautica Group may also:
-5.2.1 terminate, limit or suspend the service of your account,
-5.2.2 prohibit access to the Site and its content,
-5.2.3 delay or remove hosted content, services, tools, and
-5.2.4 take all technical and legal steps we deem necessary to restrict you from the Site,
-should we suspect you are breaching the agreement set out in these Terms and Conditions.
-5.3 Additionally, we may, in appropriate circumstances and at our discretion, suspend or terminate
-your Account for any reason, including without limitation:
-5.3.1 failure to pay or fraudulent payment for transactions,
-5.3.2 attempting to gain unauthorized access to the Site or another user's account or
-providing assistance to others' attempting to do so,
-5.3.3 usage of the Services to perform illegal activities such as money laundering, illegal
-gambling operations, financing terrorism, or other criminal activities,
-5.3.4 overcoming software security features limiting use of or protecting any content,
-5.3.5 violations of these Terms and Conditions,
-5.3.6 unexpected operational difficulties, or
-5.3.7 upon the request of law enforcement or other government agencies, if deemed to be
-legitimate and compelling by Nautica Group, acting in its sole discretion.
+​	a. terminate, limit or suspend the service of your account,
+​	b. prohibit access to the Site and its content,
+​	c. delay or remove hosted content, services, tools, and
+​	7.5.2.4 take all technical and legal steps we deem necessary to restrict you from the Site,
+​	should we suspect you are breaching the agreement set out in these Terms and Conditions.
+​	7.5.3 Additionally, we may, in appropriate circumstances and at our discretion, suspend or terminate
+​	your Account for any reason, including without limitation:
+​	7.5.3.1 failure to pay or fraudulent payment for transactions,
+​	7.5.3.2 attempting to gain unauthorized access to the Site or another user's account or
+​	providing assistance to others' attempting to do so,
+​	7.5.3.3 usage of the Services to perform illegal activities such as money laundering, illegal
+​	gambling operations, financing terrorism, or other criminal activities,
+​	7.5.3.4 overcoming software security features limiting use of or protecting any content,
+​	7.5.3.5 violations of these Terms and Conditions,
+​	7.5.3.6 unexpected operational difficulties, or
+​	7.5.3.7 upon the request of law enforcement or other government agencies, if deemed to be
+​	legitimate and compelling by Nautica Group, acting in its sole discretion.
 5.4 Nautica Group also reserves the right to cancel/terminate unverified Accounts which have been
 inactive for over 6 months or to discontinue providing service for such Accounts.
 5.5 You agree that Nautica Group will not be liable to you or to any third party for termination of
