@@ -19,8 +19,8 @@ DirStructure.forEach(d => {
 });
 
 module.exports = {
-  title: 'Nauticus: Help Center',
-  description: 'If you\'ve got a problem, yo, i\'ll solve it 😎!',
+  title: 'Nauticus Help Center',
+  description: 'FAQ and other Helpful Information',
   base:"/",
   themeConfig: {
     docsDir: 'docs',
