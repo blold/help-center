@@ -182,7 +182,7 @@ To the full extent permitted by applicable law, you hereby agree to indemnify Na
 
 
 ## 7.9 Damages 
-### (Caused by Vulnerabilities Inherent in the Internet or in Blockchain)
+### Caused by Vulnerabilities Inherent in the Internet or in Blockchain
 7.9.1 Use of the internet may not be secure. You agree that Nautica Group is not responsible
 whatsoever for any damages caused by the interception, loss or alteration to any information
 sent over the internet.
@@ -203,14 +203,10 @@ related to an attacked Token will be determined on a case-by-case basis.
 
 7.9.5 Nautica Group does not make any representation and does not warrant the safety of the Site and is not liable for any lost value or stolen property from the Site or during communications, regardless of whether Nautica Group was negligent in providing appropriate security.
 
-Section 10. Governing Law and Jurisdiction
-These Terms and Conditions and your relationship with Nautica Group are governed by the law in the
-state of Victoria and the Commonwealth of Australia and by using the Site and/or Services, you 
-submit to the non-exclusive jurisdiction of the courts of the state of Victoria and the Commonwealth
-of Australia in relation to said use of the Site and/or Services.
-Section 11. Modification of Terms and Conditions
-Nautica Group reserves the right to change, add or remove portions of these Terms and Conditions,
-at any time, at its sole discretion. After the posting of a notice of changes to the Terms and
-Conditions, your continued use of the Site will signify that you accept, understand, and agree to
-comply with the updated Terms and Conditions for all subsequent transactions. 
 
+## 7.10  Governing Law and Jurisdiction
+These Terms and Conditions and your relationship with Nautica Group are governed by the law in the state of Victoria and the Commonwealth of Australia and by using the Site and/or Services, you submit to the non-exclusive jurisdiction of the courts of the state of Victoria and the Commonwealth of Australia in relation to said use of the Site and/or Services.
+
+
+## 7.11 Modification of Terms and Conditions
+Nautica Group reserves the right to change, add or remove portions of these Terms and Conditions, at any time, at its sole discretion. After the posting of a notice of changes to the Terms and Conditions, your continued use of the Site will signify that you accept, understand, and agree to comply with the updated Terms and Conditions for all subsequent transactions. 
