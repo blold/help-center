@@ -1,19 +1,19 @@
 ---
-title:  3. Security
+title:  6. Security
 ---
 
 
-# 3. Security
+# 6. Security
 
 
 
-## 3.1 2FA & TOTP
+## 6.1 2FA & TOTP
 
 The following section will explain the importance of securing your account with 2FA, and provides a quick setup guide to get your account configured with this vital layer of security.
 
 
 
-### 3.1.1 Why 2FA is Important
+### 6.1.1 Why 2FA is Important
 
 It is strongly recommended that all users set up 2FA as soon as possible to protect their accounts. A username and password is easily hacked resulting in the loss of your funds.
 
@@ -21,7 +21,7 @@ However by enabling 2FA a hacker would need access to your password AND your pho
 
 
 
-### 3.1.2 2FA Quick Description 
+### 6.1.2 2FA Quick Description 
 
 Two-factor authentication (2FA) is a form of 2-step verification used to add an additional layer of security to your account beyond the protection the username and password provides. 
 
@@ -29,13 +29,13 @@ Once 2FA is enabled on your account, at login you will first be prompted to prov
 
 
 
-### 3.1.3 TOTP Quick Description
+### 6.1.3 TOTP Quick Description
 
 Time-based One-Time Password (TOTP) is the method of obtaining the 2FA login codes that Nauticus has elected to go with due to security concerns with the alternative "SMS" method. With TOTP you will run through the setup described below, then an algorithm will generate codes for you based on the current time and a "shared secret key" (more on this below).
 
 
 
-### 3.1.4 Setup 2FA
+### 6.1.4 Setup 2FA
 
 It is strongly recommended that all users set up 2FA as soon as possible to protect their accounts.
 
@@ -83,6 +83,7 @@ Type in the Nauticus code from the app to complete setup. Note that if you are t
 
 
 
-## 3.2 Troubleshooting
+## 6.2 Troubleshooting
 
 [reset 2FA steps here]
+
