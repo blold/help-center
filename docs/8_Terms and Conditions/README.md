@@ -77,19 +77,30 @@ requests pursuant to these Terms and Condition, or be subject to suspension or t
 
 7.5.2 You agree that Nautica Group may, by giving notice, in its sole discretion terminate your
 account and all access to Nautica Group’s Sites. Nautica Group may also:
+
 (a) terminate, limit or suspend the service of your account
+
 (b) prohibit access to the Site and its content
+
 (c) delay or remove hosted content, services and tools and 
+
 (d) take all technical and legal steps we deem necessary to restrict you from the Site, should we suspect you are breaching the agreement set out in these Terms and Conditions.
 
 7.5.3 Additionally, we may, in appropriate circumstances and at our discretion, suspend or terminate your Account for any reason, including without limitation:
+
 (a) failure to pay or fraudulent payment for transactions
+
 (b) attempting to gain unauthorized access to the Site or another user's account or providing assistance to others' attempting to do so
+
 (c) usage of the Services to perform illegal activities such as money laundering, illegal gambling operations, financing terrorism, or other criminal activities
-(d) overcoming software security features limiting use of or  protecting any content
-(d) violations of these Terms and Conditions,
-(e) unexpected operational difficulties, or
-(f) upon the request of law enforcement or other government agencies, if deemed to be legitimate and compelling by Nautica Group, acting in its sole discretion.
+
+(e) overcoming software security features limiting use of or  protecting any content
+
+(f) violations of these Terms and Conditions,
+
+(g) unexpected operational difficulties, or
+
+(h) upon the request of law enforcement or other government agencies, if deemed to be legitimate and compelling by Nautica Group, acting in its sole discretion.
 
 7.5.4 Nautica Group also reserves the right to cancel/terminate unverified Accounts which have been inactive for over 6 months or to discontinue providing service for such Accounts.
 
@@ -115,41 +126,47 @@ Tokens.
 7.6.6 To the extent permitted by law, Nautica Group nor its Owners will not be held liable or
 accountable to you for any damages, loss of profit, loss of revenue, loss of business, loss of
 opportunity, loss of data, or any indirect or consequential loss resulting from the following:
+
 (a) your use of purchased Nauticoin Tokens, inability to use, availability, or unavailability of
 Site materials, information, software, services, content, and facilities,
+
 (b) change in value of Nauticoin Tokens or any other currencies, crypto or fiat,
+
 (c) ability, inability, availability, or unavailability to buy, sell or transfer Nauticoin Tokens or
 the availability and existence of the exchange platform prior or after the ICO Token
 sales,
+
 (d) illegal or unauthorized use of the Site or purchase and sale of Tokens in an
 unauthorized manner, or
+
 (e) the product failing to be suitable for the use you have intended it to be used for.
 
 7.6.7 Nothing in these Terms and Conditions excludes or limits the liability of either party for fraud, negligence, breach of terms implied by operation of law, or any other liability which may not by law be limited or excluded. Subject to the foregoing, Nautica Group’s aggregate liability in respect of claims based on events arising out of or in connection with your use of the Site
 and/or Services, whether in contract or tort (including negligence) or otherwise, shall in no
 circumstances exceed the greater of either:
+
 (a) the total amount held in your Account less any amount of Commission that may be due
 and payable in respect of such Account; or
+
 (b) the amount of the transaction(s) that are the subject of the claim less any amount of
 Commission that may be due and payable in respect of such transaction(s).
 
 
 ## 7.7 Legal, Financial or Other Professional Advice
 7.7.1 The provision by Nautica Group of the Services should in no way be considered legal, financial or any other kind of specialized or expert advice. By using the Site and/or Services, you confirm that:
+
 (a) you have sufficient knowledge, understanding and sophistication to evaluate the risks
 and merits associated with Blockchain, token sales, and/or token management and
 offerings and to competently use our Services,
+
 (b) you represent and warrant that you have sought, or have had the opportunity to seek
 any legal, financial or otherwise specialized advice from an expert qualified to provide
 such counsel to make the most informed decisions, and
+
 (c) you understand that Nautica Group gives no warranty regarding the suitability of our
 Services and assume no fiduciary duties to you.
 
-7.7.2 You represent and warrant that you understand that any recommendations or commentary
-made by Nautica Group or its employees or other users should be considered as general in 
-nature, and you should use your own judgment or seek the advice of an expert before taking
-any action regardless of such statement. We give no assurance as to the accuracy or
-completeness of any such statement.
+7.7.2 You represent and warrant that you understand that any recommendations or commentary made by Nautica Group or its employees or other users should be considered as general in nature, and you should use your own judgment or seek the advice of an expert before taking any action regardless of such statement. We give no assurance as to the accuracy or completeness of any such statement.
 
 7.7.3 THIS IS NOT A FINANCIAL PRODUCT. THIS IS NOT IN ANY WAY OR FORM A MANAGED
 INVESTMENT SCHEME OR FINANCIAL SERVICE. IT IS A SOFTWARE PRODUCT CREATED FOR THE
