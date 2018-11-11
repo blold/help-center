@@ -123,7 +123,7 @@ Here’s what you need to do:
 
 1. Sign into your account on a laptop or desktop PC and click on the Verify button. KYC is not yet enabled for mobile devices.
 
-\2.  Choose whether you want to be verified as an ‘Individual’ or as a  representative of a ‘Business’. If you select ‘Business’ you will need  to fill out a form and email it in. The rest of this guide only applies  if you select ‘Individual’.
+2. Choose whether you want to be verified as an ‘Individual’ or as a  representative of a ‘Business’. If you select ‘Business’ you will need  to fill out a form and email it in. The rest of this guide only applies  if you select ‘Individual’.
 
 
 
@@ -131,7 +131,7 @@ Here’s what you need to do:
 
 ![KYC-1](/images/Exchange/KYC-1.png)
 
-\3. You’ll end up on this page. Fill out the information requested.
+3. You’ll end up on this page. Fill out the information requested.
 
 
 
@@ -146,7 +146,7 @@ Notes:
 - Fill in your **City** where it says “Suburb” (Suburb is an Australian address feature).
 - If  you have an unusual address that doesn’t quite fit with the structure  of this form, please ensure you write down all of the relevant parts of  your address somewhere within the form. Our staff can fix it later as  long as your entire address is there somewhere.
 
-\4. The next screen asks if you’re a “Sole Trader.”
+4. The next screen asks if you’re a “Sole Trader.”
 
 
 
@@ -156,7 +156,7 @@ Notes:
 
 Under Australian law a “Sole Trader” is an individual who runs a business (*‘trading’ in this sense does not refer to crypto trading*).  “Sole Traders” have an Australian Business Number and put aside tax to  pay at the end of each financial year. So if you aren’t Australian and  don’t have an ABN select ‘No’.
 
-\5. Next up is a series of KYC/AML required questions. Fill them out as honestly as you can.
+5. Next up is a series of KYC/AML required questions. Fill them out as honestly as you can.
 
 
 
@@ -182,7 +182,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 ![KYC-7](/images/Exchange/KYC-7.png)
 
-\6.  Finally, you’ll end up at the following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. Driver License is the next best choice. Government  issued ID cards should be selected as a last resort.
+6. Finally, you’ll end up at the following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. Driver License is the next best choice. Government  issued ID cards should be selected as a last resort.
 
 
 
@@ -190,7 +190,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 ![KYC-8](/images/Exchange/KYC-8.png)
 
-\7.  The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
+7. The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
 
 
 
@@ -198,7 +198,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 ![KYC-9](/images/Exchange/KYC-9.png)
 
-\8.  Take a photo of the profile page of your passport on a flat surface.  Make sure the image is well lit and the photo isn’t blurry. If you have a  license, take photos of the front and the back. Make sure you don’t get  a reflection from the flash.
+8. Take a photo of the profile page of your passport on a flat surface.  Make sure the image is well lit and the photo isn’t blurry. If you have a  license, take photos of the front and the back. Make sure you don’t get  a reflection from the flash.
 
 
 
@@ -206,7 +206,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 ![KYC-10](/images/Exchange/KYC-10.png)
 
-\9.  Once you have a nice photograph, upload it to your laptop and check  that it is under 5MB in file size. On a Mac, right click and select  ‘info’. On Windows right click and select ‘properties’. At this point,  check the box and proceed to the next screen.
+9. Once you have a nice photograph, upload it to your laptop and check  that it is under 5MB in file size. On a Mac, right click and select  ‘info’. On Windows right click and select ‘properties’. At this point,  check the box and proceed to the next screen.
 
 
 
@@ -214,7 +214,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 ![KYC-11](/images/Exchange/KYC-11.png)
 
-\10. Now take your ‘selfie’ photo. There are tips on how to take a photo that will not be rejected by the system on this screen.
+10. Now take your ‘selfie’ photo. There are tips on how to take a photo that will not be rejected by the system on this screen.
 
 
 
@@ -222,7 +222,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 ![KYC-12](/images/Exchange/KYC-12.png)
 
-\11. Upload the photo to the desktop and tick the box.
+11. Upload the photo to the desktop and tick the box.
 
 
 
@@ -230,7 +230,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 ![KYC-13](/images/Exchange/KYC-13.png)
 
-\12.  Now you get to double check your name and date of birth are correct.  This step is extremely important as one of the biggest reasons for  failing KYC is incorrectly writing out your name and date of birth.
+12. Now you get to double check your name and date of birth are correct.  This step is extremely important as one of the biggest reasons for  failing KYC is incorrectly writing out your name and date of birth.
 
 
 
@@ -238,7 +238,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 ![KYC-14](/images/Exchange/KYC-14.png)
 
-\13.  After confirming once again you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
+13. After confirming once again you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
 
 
 
@@ -246,7 +246,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 ![KYC-15](/images/Exchange/KYC-15.png)
 
-\14. Please select your Country and the ID type that you will be uploading.
+14. Please select your Country and the ID type that you will be uploading.
 
 Once  you have selected your country and document type, you will be asked  upload a copy of your ID documents (Driver’s License, Passport, ID  card).
 
@@ -268,7 +268,7 @@ Once  you have selected your country and document type, you will be asked  uploa
 
 ![KYC-18](/images/Exchange/KYC-18.png)
 
-\15.  Once you have uploaded your document, you will be taken to a page,  asking you to upload a picture of yourself holding a white piece of  paper with the word: **NTS** and today’s date written on it in the following format: **DD/MM/YYYY**.
+15. Once you have uploaded your document, you will be taken to a page,  asking you to upload a picture of yourself holding a white piece of  paper with the word: **NTS** and today’s date written on it in the following format: **DD/MM/YYYY**.
 
 It is easiest to have someone else take this picture of you and then send it to you for uploading.
 
@@ -284,7 +284,7 @@ It is easiest to have someone else take this picture of you and then send it to 
 
 ![KYC-20](/images/Exchange/KYC-20.png)
 
-\16. After the above steps have been completed, you will then land on a Submission Confirmation Page like this:
+16. After the above steps have been completed, you will then land on a Submission Confirmation Page like this:
 
 
 
@@ -292,12 +292,15 @@ It is easiest to have someone else take this picture of you and then send it to 
 
 ![KYC-21](/images/Exchange/KYC-21.png)
 
-\17. Congratulations, you’ve almost made it through! Whew!
+17. Congratulations, you’ve almost made it through! Whew!
 
 
 At this point, it is very important that you take a long walk or make yourself a cup of tea.
 
+
+
 **Please don’t try and log in to Nauticus again for five minutes while the system updates your verification status.**
+
 
 
 **Even  better, don’t log back into your account until you have received an  email saying that you have been verified. An approval/rejection email  will be issued by the system, the minute you are approved (or rejected).**
@@ -308,6 +311,7 @@ If approved, congratulations, you are one step closer to trading on the Nauticus
 And if you did not get verified for some reason, do not worry — we are here to help in the next section! 
 
 
+
 ## 1.4 Issues with KYC?
 
 If you have experienced issues with your KYC verification, please navigate to the **Cases** section of your Account and copy the error code you find there.
@@ -315,8 +319,7 @@ If you have experienced issues with your KYC verification, please navigate to th
 
 Then please email us at [support@nauticus.exchange](mailto:support@nauticus.exchange)  with the error code and any associated error messages, so that we can  help troubleshoot your KYC case and get you verified as soon as  possible.
 
-
-\18. **Note: after a failed KYC attempt, you will NOT be able to complete KYC without emailing Customer Support at** [**support@nauticus.exchange**](mailto:support@nauticus.exchange) **for troubleshooting first.**
+18. **Note: after a failed KYC attempt, you will NOT be able to complete KYC without emailing Customer Support at** [**support@nauticus.exchange**](mailto:support@nauticus.exchange) **for troubleshooting first.**
 
 Once, we have investigated and helped solve your issue, we will then re-enable your account to attempt KYC once again.
 
