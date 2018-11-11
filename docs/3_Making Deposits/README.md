@@ -3,6 +3,7 @@ title: 2. Making Deposits
 ---
 
 
+
 # 2. Making Deposits
 
 
@@ -169,7 +170,6 @@ The exact steps for depositing crypto assets will vary depending on which coin y
 (j)	All payments to Nauticus are subjected to user specific minimum and maximum deposit requirements 
 
 (k)	Nauticus does not accept cash deposits 
-
 
 * * *
 
