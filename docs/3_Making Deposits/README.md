@@ -137,7 +137,7 @@ The exact steps for depositing crypto assets will vary depending on which coin y
 
 
 
-![Crypto-002.png](/images/Exchange/Deposit/Crypto-001.png)
+![Crypto-002.png](/images/Exchange/Deposit/Crypto-002.png)
 
 
 
