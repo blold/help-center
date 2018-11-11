@@ -2,7 +2,7 @@
 home: true 
 heroImage: /images/Logo-1.png
 actionText: Nauticus Exchange Help Center →
-actionLink: /Exchange/
+actionLink: /1_Exchange/
 features:
 - title: Markdown Editing 
   details: Netlify's CMS provides a flexible Markdown Editor 
