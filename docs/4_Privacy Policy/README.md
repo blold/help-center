@@ -10,3 +10,6 @@ title:  3. Privacy Policy
 
 ### [add policy here]
 
+
+
+Text text text
