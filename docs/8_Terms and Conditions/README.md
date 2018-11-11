@@ -5,19 +5,13 @@ title:  7. Terms & Conditions
 # 7. Terms & Conditions
 
 ## 7.1 Acceptance
-7.1.1 The terms and conditions of use stated below ("Terms and Conditions") constitute a legally
-binding agreement between you and Nautica Group PTY Limited (“Nautica Group”, “we” or
-“us”).
+7.1.1 The terms and conditions of use stated below ("Terms and Conditions") constitute a legally binding agreement between you and Nautica Group PTY Limited (“Nautica Group”, “we” or “us”).
 7.1.2 By using this website (“Site”) and any services provided by Nautica Group (“Services”), you
 agree to accept and comply with the Terms and Conditions.
 7.1.3 As used herein, a reference to Nautica Group refers to its owners, directors, investors,
 employees or other related parties.
-7.1.4 All information and products listed on this Site is in reference to plans and future direction of
-Nautica Group’s business and is not a confirmation of ready to use product, nor is it a
-guarantee of release in the future.
-7.1.5 By using the Site and/or Services, you accept and understand that Nautica Group may charge
-certain fees for transactions made through the Site and/or Services (“Commission”).
-
+7.1.4 All information and products listed on this Site is in reference to plans and future direction of Nautica Group’s business and is not a confirmation of ready to use product, nor is it a guarantee of release in the future.
+7.1.5 By using the Site and/or Services, you accept and understand that Nautica Group may charge certain fees for transactions made through the Site and/or Services (“Commission”).
 
 
 ## 7.2 Risks and Limitations
