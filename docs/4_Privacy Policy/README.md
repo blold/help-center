@@ -8,7 +8,7 @@ title:  3. Privacy Policy
 
 
 
-Nautica Group PTY Limited (we, us, Nauticus) works together with banks and financial institutions that are required by law to take steps to prevent illegal activities such as fraud, money-laundering and terrorist-financing. Given the nature of our business, we take the privacy and security of an individual’s personal information very seriously.
+NEX Markets PTY Limited ('we', 'us', 'Nauticus') works together with banks and financial institutions that are required by law to take steps to prevent illegal activities such as fraud, money-laundering and terrorist-financing. Given the nature of our business, we take the privacy and security of an individual’s personal information very seriously.
 
 We are bound by the provisions of the privacy laws in the State of Victoria, Australia and the Australian Privacy Principles. These laws govern the way in which we may collect, use and disclose personal information about any individual (you, your, user). This Privacy Policy sets out the manner in which we comply with our obligations under these laws. Please read the following information carefully to understand Nauticus practices regarding your information and how we will use it.
 
