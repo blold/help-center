@@ -8,4 +8,4 @@ The file structure is simple, each folder is like a webpage and however many `ma
 
 The below screenshot will give you a reference to how this page was built how the folder is structured.
 
-![SIDEBAR](/images/file_structure.jpg)
+![SIDEBAR](https://nauticus.exchange/help/images/file_structure.jpg)

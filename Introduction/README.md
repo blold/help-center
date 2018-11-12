@@ -23,14 +23,14 @@ These are the steps that you need to follow in order to have a successful deploy
 `Important` You can use Github's Desktop to deploy your changes without a hiccup. The following instruction will show you just that.
 
 ### FETCH
-![Fetch](/images/FETCH.png)
+![Fetch](https://nauticus.exchange/help/images/FETCH.png)
 
 Whenever you are changing a file(s) and working with a multiple poeple on the same repo, you always have to `fetch` first, before you commit.
 What `fetch` does is basically goes to the main repository on `Github` or `Bitbucket` and pulls the latest changes to your local repository.
 
 
 ### COMMIT
-![COMMIT](/images/COMMIT.jpg)
+![COMMIT](https://nauticus.exchange/help/images/COMMIT.jpg)
 
 When you make a change to a file(s), upon saving, your changes will appear in the `Github Desktop` windows.
 In order to send your changes to your co-workers, you have to commit it to the online git repository.
@@ -38,7 +38,7 @@ To do that, you have to write a `commit` message and `summary`, in the highlight
 you can go ahead and click the `commit` button.
 
 ### PUSH
-![PUSH](/images/PUSH.jpg)
+![PUSH](https://nauticus.exchange/help/images/PUSH.jpg)
 
 In order to send your changes to remote repository, you need to do one last step and that is to `push` your changes.
 You can do that by clicking the highlighted `Push origin` button. Once successfully pushed, your changes will appear in a minute or two.

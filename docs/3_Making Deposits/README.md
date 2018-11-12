@@ -20,7 +20,7 @@ title: 2. Making Deposits
 
 - Look to the menu in the upper right and select  **DEPOSITS**  as shown below.
 
-![Deposit-001.png](/images/Exchange/Deposit/Deposit-001.png)
+![Deposit-001.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-001.png)
 
 
 
@@ -28,7 +28,7 @@ title: 2. Making Deposits
 
 - Next we will select  **Fiat**  from the selection screen as seen in the next image.
 
-![Deposit-002.png](/images/Exchange/Deposit/Deposit-002.png)
+![Deposit-002.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-002.png)
 
 
 
@@ -36,7 +36,7 @@ title: 2. Making Deposits
 
 - From the next screen please read the  **Terms and Conditions**  then signal your acceptance by clicking the blue bar at the bottom.
 
-![Deposit-003.png](/images/Exchange/Deposit/Deposit-003.png)
+![Deposit-003.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-003.png)
 
 
 
@@ -44,7 +44,7 @@ title: 2. Making Deposits
 
 - The next screen provides a drop-down menu where you can select the currency you wish to deposit.
 
-![Deposit-004.png](/images/Exchange/Deposit/Deposit-004.png)
+![Deposit-004.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-004.png)
 
 
 
@@ -52,7 +52,7 @@ title: 2. Making Deposits
 
 - In this case we will highlight  **USD**
 
-![Deposit-005.png](/images/Exchange/Deposit/Deposit-005.png)
+![Deposit-005.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-005.png)
 
 
 
@@ -60,7 +60,7 @@ title: 2. Making Deposits
 
 - Then click  **NEXT**  to confirm our selection.
 
-![Deposit-006.png](/images/Exchange/Deposit/Deposit-006.png)
+![Deposit-006.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-006.png)
 
 
 
@@ -68,7 +68,7 @@ title: 2. Making Deposits
 
 - Enter the amount you wish to deposit in the space where you see  **500**  entered as an example and click  **NEXT**
 
-![Deposit-007.png](/images/Exchange/Deposit/Deposit-007.png)
+![Deposit-007.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-007.png)
 
 
 
@@ -76,7 +76,7 @@ title: 2. Making Deposits
 
 - In the next screen you will be presented with all of the information your bank will need in order to make the transfer
 
-![Deposit-008.png](/images/Exchange/Deposit/Deposit-008.png)
+![Deposit-008.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-008.png)
 
 
 
@@ -84,7 +84,7 @@ title: 2. Making Deposits
 
 - Please take a moment to review the information in the Thank You screen below then click  **NEXT**
 
-![Deposit-010.png](/images/Exchange/Deposit/Deposit-010.png)
+![Deposit-010.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-010.png)
 
 
 
@@ -133,19 +133,19 @@ The exact steps for depositing crypto assets will vary depending on which coin y
 
 * To begin the deposit please go to the  **DEPOSITS**  page and select  **Cryptocurrency**  as shown below.
 
-![Crypto-001.png](/images/Exchange/Deposit/Crypto-001.png)
+![Crypto-001.png](https://nauticus.exchange/help/images/Exchange/Deposit/Crypto-001.png)
 
 
 
 * Select the asset you will be depositing - we'll select Bitcoin for this example.
 
-![Crypto-002.png](/images/Exchange/Deposit/Crypto-002.png)
+![Crypto-002.png](https://nauticus.exchange/help/images/Exchange/Deposit/Crypto-002.png)
 
 
 
 * Copy the Deposit Address from the next screen or use the QR code as appropriate for your wallet.
 
-![Crypto-003.png](/images/Exchange/Deposit/Crypto-003.png)
+![Crypto-003.png](https://nauticus.exchange/help/images/Exchange/Deposit/Crypto-003.png)
 
 
 
