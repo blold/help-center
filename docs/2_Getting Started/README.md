@@ -21,7 +21,7 @@ To migrate your Nauticus.io account to the [Nauticus.Exchange](https://nauticus.
 
 
 
-![Migrate-1](/images/Exchange/Migrate-1.png)
+![Migrate-1](https://nauticus.exchange/help/images/Exchange/Migrate-1.png)
 
 
 
@@ -29,7 +29,7 @@ To migrate your Nauticus.io account to the [Nauticus.Exchange](https://nauticus.
 
 
 
-![Migrate-2](/images/Exchange/Migrate-2.png)
+![Migrate-2](https://nauticus.exchange/help/images/Exchange/Migrate-2.png)
 
 
 
@@ -39,13 +39,13 @@ In some cases you may have already created an account on the [Nauticus.exchange]
 
 
 
-![Migrate-3](/images/Exchange/Migrate-3.png)
+![Migrate-3](https://nauticus.exchange/help/images/Exchange/Migrate-3.png)
 
 
 
 5 - Creating a new exchange account will then progress you to the “Migration Complete” page.
 
-![Migrate-4](/images/Exchange/Migrate-4.png)
+![Migrate-4](https://nauticus.exchange/help/images/Exchange/Migrate-4.png)
 
 6 - Congratulations, your account migration is complete!
 
@@ -81,7 +81,7 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
-![Sign-Up.png](/images/Exchange/Sign-Up.png)
+![Sign-Up.png](https://nauticus.exchange/help/images/Exchange/Sign-Up.png)
 
 
 
@@ -129,7 +129,7 @@ Here’s what you need to do:
 
 
 
-![KYC-1](/images/Exchange/KYC-1.png)
+![KYC-1](https://nauticus.exchange/help/images/Exchange/KYC-1.png)
 
 3. You’ll end up on this page. Fill out the information requested.
 
@@ -137,7 +137,7 @@ Here’s what you need to do:
 
 
 
-![KYC-2](/images/Exchange/KYC-2.png)
+![KYC-2](https://nauticus.exchange/help/images/Exchange/KYC-2.png)
 
 Notes:
 
@@ -152,7 +152,7 @@ Notes:
 
 
 
-![KYC-3](/images/Exchange/KYC-3.png)
+![KYC-3](https://nauticus.exchange/help/images/Exchange/KYC-3.png)
 
 Under Australian law a “Sole Trader” is an individual who runs a business (*‘trading’ in this sense does not refer to crypto trading*).  “Sole Traders” have an Australian Business Number and put aside tax to  pay at the end of each financial year. So if you aren’t Australian and  don’t have an ABN select ‘No’.
 
@@ -162,25 +162,25 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![KYC-4](/images/Exchange/KYC-4.png)
+![KYC-4](https://nauticus.exchange/help/images/Exchange/KYC-4.png)
 
 
 
 
 
-![KYC-5](/images/Exchange/KYC-5.png)
+![KYC-5](https://nauticus.exchange/help/images/Exchange/KYC-5.png)
 
 
 
 
 
-![KYC-6](/images/Exchange/KYC-6.png)
+![KYC-6](https://nauticus.exchange/help/images/Exchange/KYC-6.png)
 
 
 
 
 
-![KYC-7](/images/Exchange/KYC-7.png)
+![KYC-7](https://nauticus.exchange/help/images/Exchange/KYC-7.png)
 
 6. Finally, you’ll end up at the following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. Driver License is the next best choice. Government  issued ID cards should be selected as a last resort.
 
@@ -188,7 +188,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![KYC-8](/images/Exchange/KYC-8.png)
+![KYC-8](https://nauticus.exchange/help/images/Exchange/KYC-8.png)
 
 7. The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
 
@@ -196,7 +196,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![KYC-9](/images/Exchange/KYC-9.png)
+![KYC-9](https://nauticus.exchange/help/images/Exchange/KYC-9.png)
 
 8. Take a photo of the profile page of your passport on a flat surface.  Make sure the image is well lit and the photo isn’t blurry. If you have a  license, take photos of the front and the back. Make sure you don’t get  a reflection from the flash.
 
@@ -204,7 +204,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![KYC-10](/images/Exchange/KYC-10.png)
+![KYC-10](https://nauticus.exchange/help/images/Exchange/KYC-10.png)
 
 9. Once you have a nice photograph, upload it to your laptop and check  that it is under 5MB in file size. On a Mac, right click and select  ‘info’. On Windows right click and select ‘properties’. At this point,  check the box and proceed to the next screen.
 
@@ -212,7 +212,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![KYC-11](/images/Exchange/KYC-11.png)
+![KYC-11](https://nauticus.exchange/help/images/Exchange/KYC-11.png)
 
 10. Now take your ‘selfie’ photo. There are tips on how to take a photo that will not be rejected by the system on this screen.
 
@@ -220,7 +220,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![KYC-12](/images/Exchange/KYC-12.png)
+![KYC-12](https://nauticus.exchange/help/images/Exchange/KYC-12.png)
 
 11. Upload the photo to the desktop and tick the box.
 
@@ -228,7 +228,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![KYC-13](/images/Exchange/KYC-13.png)
+![KYC-13](https://nauticus.exchange/help/images/Exchange/KYC-13.png)
 
 12. Now you get to double check your name and date of birth are correct.  This step is extremely important as one of the biggest reasons for  failing KYC is incorrectly writing out your name and date of birth.
 
@@ -236,7 +236,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![KYC-14](/images/Exchange/KYC-14.png)
+![KYC-14](https://nauticus.exchange/help/images/Exchange/KYC-14.png)
 
 13. After confirming once again you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
 
@@ -244,7 +244,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 
 
 
-![KYC-15](/images/Exchange/KYC-15.png)
+![KYC-15](https://nauticus.exchange/help/images/Exchange/KYC-15.png)
 
 14. Please select your Country and the ID type that you will be uploading.
 
@@ -254,19 +254,19 @@ Once  you have selected your country and document type, you will be asked  uploa
 
 
 
-![KYC-16](/images/Exchange/KYC-16.png)
+![KYC-16](https://nauticus.exchange/help/images/Exchange/KYC-16.png)
 
 
 
 
 
-![KYC-17](/images/Exchange/KYC-17.png)
+![KYC-17](https://nauticus.exchange/help/images/Exchange/KYC-17.png)
 
 
 
 
 
-![KYC-18](/images/Exchange/KYC-18.png)
+![KYC-18](https://nauticus.exchange/help/images/Exchange/KYC-18.png)
 
 15. Once you have uploaded your document, you will be taken to a page,  asking you to upload a picture of yourself holding a white piece of  paper with the word: **NTS** and today’s date written on it in the following format: **DD/MM/YYYY**.
 
@@ -276,13 +276,13 @@ It is easiest to have someone else take this picture of you and then send it to 
 
 
 
-![KYC-19](/images/Exchange/KYC-19.jpeg)
+![KYC-19](https://nauticus.exchange/help/images/Exchange/KYC-19.jpeg)
 
 
 
 
 
-![KYC-20](/images/Exchange/KYC-20.png)
+![KYC-20](https://nauticus.exchange/help/images/Exchange/KYC-20.png)
 
 16. After the above steps have been completed, you will then land on a Submission Confirmation Page like this:
 
@@ -290,7 +290,7 @@ It is easiest to have someone else take this picture of you and then send it to 
 
 
 
-![KYC-21](/images/Exchange/KYC-21.png)
+![KYC-21](https://nauticus.exchange/help/images/Exchange/KYC-21.png)
 
 17. Congratulations, you’ve almost made it through! Whew!
 
