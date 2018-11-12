@@ -1,7 +1,7 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs ./docs/.vuepress/dist/"
+    "docs:build": "vuepress build docs && cp _redirects __headers ./docs/.vuepress/dist/"
   },
   "devDependencies": {},
   "dependencies": {
