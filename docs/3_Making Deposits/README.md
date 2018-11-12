@@ -49,6 +49,11 @@ title: 2. Making Deposits
 ![Deposit-007.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-007.png)
 
 
+- In the next screen you are asked if you have an Australian bank account. Answering **Yes** would bring up an Info screen with details for local transfers, we will select **No** to bring up the screen with details for international transfers.
+
+![Deposit-007a.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-007a.png)
+
+
 - In the next screen you will be presented with all of the information your bank will need in order to make the transfer
 
 ![Deposit-008.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-008.png)
