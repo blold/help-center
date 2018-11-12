@@ -39,13 +39,9 @@ title: 2. Making Deposits
 
 
 - In this case we will highlight  **AUD**
+- Then click  **NEXT**  to confirm your selection.
 
 ![Deposit-005.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-005.png)
-
-
-- Then click  **NEXT**  to confirm our selection.
-
-![Deposit-006.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-006.png)
 
 
 - Enter the amount you wish to deposit in the space where you see  **500**  entered as an example and click  **NEXT**
