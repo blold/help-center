@@ -9,21 +9,21 @@ title:  6. Security
 
 ## 6.1 2FA & TOTP
 
-The following section will explain the importance of securing your account with 2FA, and provides a quick setup guide to get your account configured with this vital layer of security.
+The following section explains the importance of securing your account with 2FA. Scroll to the bottom for a quick setup guide.
 
 
 
 ### 6.1.1 Why 2FA is Important
 
-It is strongly recommended that all users set up 2FA as soon as possible to protect their accounts. A username and password is easily hacked resulting in the loss of your funds.
+It is strongly recommended that all users set up 2FA as soon as possible to protect their accounts. A username and password is easily hacked which could result in the loss of your funds.
 
-However by enabling 2FA a hacker would need access to your password AND your phone or device in order to log in to the exchange. It is also recommended that you separately use a fingerprint or facial lock for your device, or a passcode to add even more security layers.
+However by enabling 2FA a hacker would need access to your password AND your phone or device in order to log in to the exchange. 
+
+We also recommend that you also lock your device using a fingerprint, facial lock, or passcode to add even more security.
 
 
 
 ### 6.1.2 2FA Quick Description 
-
-Two-factor authentication (2FA) is a form of 2-step verification used to add an additional layer of security to your account beyond the protection the username and password provides. 
 
 Once 2FA is enabled on your account, at login you will first be prompted to provide your password (factor 1) and your 2FA code (factor 2) when signing in to your account. The 2FA codes are associated with something unique such as a specific device (mobile phone) or a phone number.
 
@@ -31,19 +31,13 @@ Once 2FA is enabled on your account, at login you will first be prompted to prov
 
 ### 6.1.3 TOTP Quick Description
 
-Time-based One-Time Password (TOTP) is the method of obtaining the 2FA login codes that Nauticus has elected to go with due to security concerns with the alternative "SMS" method. With TOTP you will run through the setup described below, then an algorithm will generate codes for you based on the current time and a "shared secret key" (more on this below).
+Nauticus has elected to use a 'Time-based One-Time Password (TOTP); as it offers increased security over the alternative "SMS" method. With TOTP an algorithm will generate codes for you based on the current time and a "shared secret key" (more on this below).
 
 
 
 ### 6.1.4 Setup 2FA
 
-It is strongly recommended that all users set up 2FA as soon as possible to protect their accounts.
-
-A username and password is easily hacked resulting in the loss of your funds.
-
-However by enabling 2FA a hacker would need access to your password AND your phone or device in order to log in to the exchange. It is also recommended that you seperately use a fingerprint or facial lock for your device, or a passcode.
-
-To enable 2FA first head to Google Play or the Apple Store and download either Google Authenticator, or as an alternative we would recommend Authy as having additional features which are quite useful.
+To enable 2FA first head to Google Play or the Apple Store and download either Google Authenticator, or Authy, which offers additional features.
 
 
 
@@ -85,5 +79,4 @@ Type in the Nauticus code from the app to complete setup. Note that if you are t
 
 ## 6.2 Troubleshooting
 
-[reset 2FA steps here]
-
+Additional support resources are available from [Google Account Help](https://support.google.com/accounts/topic/2954345?hl=en&ref_topic=7667090). 
