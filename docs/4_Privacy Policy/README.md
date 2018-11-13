@@ -34,16 +34,7 @@ We do not collect, use or disclose any sensitive information about any person. T
 
 We do not use or adopt as our own identifier any individual identifier assigned by any other organization.
 
-## 3.3 Use of cookies
-
-Nauticus uses cookies or other similar technologies for the purpose of enhancing user experience while using the Site. We use the following cookies:
-
-- Strictly necessary cookies: Cookies that are required for the full and proper functionality of the Site;
-- Analytical or Performance cookies: Cookies that allow us to recognize and count the number of users that are using our Site and how they move around while they are using it. This information is used to aid us with providing better ways to improve the Site. We use a variety of analytic tools to help us analyse how users engage our website which compiles reports that help identify ways to improve the Site. The reports that are disclosed only indicate trends, and do not provide and individual details of our visitors. If you feel the need to do so, you may opt out of our analytics at any time;
-- Authentication cookies: Cookies used for user authentication, confirming identity and proper access to Site information; and
-- Functionality cookies: Used to recognize you when returning to the Site.
-
-## 3.4 Use of Log Files
+## 3.3 Use of Log Files
 
 Nauticus may use the log files to collect your Internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze your activity on the Site, collect geographic and demographic information, and evaluate content of the Nauticus’s Site.
 
@@ -53,22 +44,22 @@ Nauticus is not obligated to use log files and may do it at its own discretion. 
 
 Nauticus is not obligated to place cookies on your computer and may do it at its own discretion.
 
-## 3.5 Security
+## 3.4 Security
 
 We take all reasonable steps (including the employment of appropriate security systems and procedures) to ensure all data held by us is safe and secure. Such security measures include but not limited to physical protection and electronic encryption to prevent any unauthorized access, authentication cookies, multilayered Site access protocol.
 
-## 3.6 Quality
+## 3.5 Quality
 
 We take all reasonable steps to ensure that any personal information that we collect and use is accurate, complete and up-to-date. We may, under our discretion or required by law, require updates of your personal information periodically, this includes but not limited to your phone, address, email, passport, drivers license, and other relevant verification documents. Nauticus will insure sufficient time is provided for you to supply the information, however you understand and accept that depending on circumstances, we may request it with little allotted timeframe. In either case, we are not liable or held accountable for your availability to provide these information, nor are we liable for any loss you may incur.
 
-## 3.7 Access and correction
+## 3.6 Access and correction
 
 You have a right to access your personal information, subject to some exceptions allowed by law. If you wish to access your personal information, you should contact us via the Nauticus Support page. We reserve the right to charge a fee for searching for and providing access to your information.
 
-## 3.8 Destruction
+## 3.7 Destruction
 
 Where we determine, acting reasonably, that personal information held in respect of an individual is no longer needed for our functions or the services we provide, we will permanently destroy or de-identify that information.
 
-## 3.9 Amendments to the policy
+## 3.8 Amendments to the policy
 
 We may from time to time vary this Privacy Policy. Please check our website regularly for an up-to-date version of our Privacy Policy.

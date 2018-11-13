@@ -54,7 +54,7 @@ title: 2. Making Deposits
 ![Deposit-007a.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-007a.png)
 
 
-- In the next screen you will be presented with all of the information your bank will need in order to make the transfer
+- In the next screen you will be presented with all of the information your bank will need in order to make the transfer.
 
 ![Deposit-008.png](https://nauticus.exchange/help/images/Exchange/Deposit/Deposit-008.png)
 
