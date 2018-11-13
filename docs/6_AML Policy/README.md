@@ -92,7 +92,7 @@ For a ‘suspicion’ to be valid, we must have reasonable grounds to believe ML
 
 **Policy roles and responsibilities**
 
-Nauticus Board of Directors (the Board) and Senior Management have ongoing oversight of our AML/CTF policy and procedures. All permanent and temporary employees must comply with these, attend training specific to their role, and report suspicious matters or behaviours.
+The Nauticus Founders and Senior Management have ongoing oversight of our AML/CTF policy and procedures. All permanent and temporary employees must comply with these, attend training specific to their role, and report suspicious matters or behaviours.
 
  
 
@@ -115,7 +115,3 @@ The design and implementation of the program was tailored to our ML/TF risk prof
 Nauticus reports any transactions or other activities regarded as suspicious to AUSTRAC, Australia’s AML/CTF regulator.
 
 Nauticus also keeps currency exchange records for 7 years.
-
- 
-
- 
