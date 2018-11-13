@@ -27,10 +27,6 @@ module.exports = {
     repo: 'NauticusOfficial/help-center',
 		sidebar: mdFiles,
     nav: [
-      {
-        text: 'Admin',
-        link: '/admin/#/',
-      }
     ]
   }
 }
