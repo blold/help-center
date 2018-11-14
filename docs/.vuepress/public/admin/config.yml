@@ -4,6 +4,7 @@ backend:
   branch: asif # Branch to update (optional; defaults to master)
 media_folder: "docs/.vuepress/public/images"
 public_folder: "docs/.vuepress/dist/"
+publish_mode: editorial_workflow
 collections:
   - name: "doc" # Used in routes, e.g., /admin/collections/blog
     label: "Doc" # Used in the UI

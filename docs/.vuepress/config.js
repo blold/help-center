@@ -1,6 +1,4 @@
 const dirTree = require('directory-tree');
-const fs = require('fs');
-const path = require('path');
 
 let DirStructure = dirTree('docs/', {normalizePath: true}).children;
 let mdFiles = [];
@@ -27,14 +25,8 @@ module.exports = {
 	cleanURL: true,
   themeConfig: {
     docsDir: 'docs',
-    repo: 'NauticusOfficial/help-center',
+		repo: 'NauticusOfficial/help-center',
 		sidebar: mdFiles,
-		cleanURL: true,
-    nav: [
-			{
-				text: 'Admin',
-				link: '/admin/#/',
-			}
-    ]
+    nav: false
   }
 }
