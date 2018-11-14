@@ -12,12 +12,18 @@ DirStructure.forEach(d => {
   }
 });
 
-console.log(mdFiles)
+// Sort the filenames
+mdFiles = mdFiles.sort((a, b) => a.localeCompare(b, undefined, {
+	numeric: true,
+	sensitivity: 'base'
+}));
+
+
 
 module.exports = {
   title: 'Nauticus Help Center',
   description: 'FAQ and other Helpful Information',
-	base: "/",
+	base: "/help/",
 	cleanURL: true,
   themeConfig: {
     docsDir: 'docs',
