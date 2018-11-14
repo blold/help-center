@@ -6,7 +6,7 @@ let DirStructure = dirTree('docs/', {normalizePath: true}).children;
 let mdFiles = [];
 mdFiles.push('/');
 DirStructure.forEach(d => {
-  if (d.name !== ".vuepress" && d.name !== "README.md") {
+  if (d.name !== ".vuepress" && d.name !== "README.md" && d.name !== "index.md") {
 		d.name = d.name.split('.md')[0];
 		mdFiles.push(`/${d.name}`);
   }
