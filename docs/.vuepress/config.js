@@ -23,7 +23,7 @@ mdFiles = mdFiles.sort((a, b) => a.localeCompare(b, undefined, {
 module.exports = {
   title: 'Nauticus Help Center',
   description: 'FAQ and other Helpful Information',
-	base: "/help/",
+	base: "/",
 	cleanURL: true,
   themeConfig: {
     docsDir: 'docs',
