@@ -22,7 +22,7 @@ module.exports = {
   title: 'Nauticus Help Center',
   description: 'FAQ and other Helpful Information',
 	base: "/",
-	cleanURL: true,
+	cleanURL: false,
   themeConfig: {
     docsDir: 'docs',
 		repo: 'NauticusOfficial/help-center',

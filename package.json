@@ -5,7 +5,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "directory-tree": "^2.1.0",
-    "vuepress": "^0.14.4"
+    "@nauticus-blockchain/vuepress": "^1.0.0",
+    "directory-tree": "^2.1.0"
   }
 }
