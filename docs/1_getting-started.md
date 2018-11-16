@@ -79,7 +79,7 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 ## Verifying Your Account
 
-### 1. Complete KYC
+### Complete KYC
 
 ***Step by step guide to completing KYC on Nauticus Exchange***
 
@@ -220,7 +220,8 @@ If you have experienced issues with your KYC verification, please navigate to th
 Then please email us at [support@nauticus.exchange](mailto:support@nauticus.exchange)  with the error code and any associated error messages, so that we can  help troubleshoot your KYC case and get you verified as soon as  possible.
 
 
-18. **Note: after a failed KYC attempt, you will NOT be able to complete KYC without emailing Customer Support at** [**support@nauticus.exchange**](mailto:support@nauticus.exchange) **for troubleshooting first.**
+
+**Note: after a failed KYC attempt, you will NOT be able to complete KYC without emailing Customer Support at** [**support@nauticus.exchange**](mailto:support@nauticus.exchange) **for troubleshooting first.**
 
 Once, we have investigated and helped solve your issue, we will then re-enable your account to attempt KYC once again.
 
