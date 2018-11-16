@@ -7,7 +7,7 @@ title: 11_Test for Joe ⚡
 
 #### 📕 Create new docs by
 
-1. **Go to_`/admin`_ page of the site.**
+1. **Go to `/admin` page of the site.**
 2. **Click on `New Doc`**
 3. **11_Title of your doc**
 4. **Body goes in the BODY area.**
