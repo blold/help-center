@@ -3,11 +3,7 @@ title:  4. Cookie Policy
 ---
 
 
-
-
-
 # Cookie Policy
-
 
 
 When you access the Site or use our products or services, we may place cookies on your computer or device. This technology is used to recognize you as a user of Nauticus’s services and to further assist with monitoring usage of our Site.

@@ -3,11 +3,11 @@ title:  5. AML Policy
 ---
 
 
-# 5. AML Policy
+# AML Policy
 
 
 
-## 5.1 Anti Money Laundering (AML) and Counter-Terrorism Financing (CTF) Policy
+## Anti Money Laundering (AML) and Counter-Terrorism Financing (CTF) Policy
 
 
 As with any exchange platform, there is a risk of Nauticus services being used to launder money and finance terrorism. Australian law and applicable local laws in the jurisdictions in which we operate, requires us to put training, processes and systems in place to identify, manage and mitigate this risk. All company entities are required to comply with the policy principles irrespective of their geographic location. Where the laws of a particular jurisdiction are of a higher standard, then the higher standard must be applied.
