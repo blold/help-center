@@ -3,9 +3,9 @@ title: 2. Making Deposits
 ---
 # 2. Making Deposits
 
-## 2.1 Deposit FIAT
+## Section 1 - Deposit FIAT
 
-### 2.1.1 Sending from Overseas
+### 1.1 Sending from Overseas
 
 **In the next example we will walk you through the steps for depositing AUD from overseas.**
 
@@ -56,7 +56,7 @@ _Third parties are not allowed to transfer funds to your account. Only send mone
 
 **For more information please see the Terms and Conditions below.**
 
-### 2.1.2 Sending from Australia
+### 1.2 Sending from Australia
 
 If you have an Australian Bank Account you will need to login to your own bank's website, or app, in order to transfer money into Nauticus Exchange. Each bank's interface is slightly different but they all offer similar functionality. 
 
@@ -73,7 +73,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 * Enter the amount you wish to transfer
 * Enter the Unique Deposit Code
 
-## 2.2 Deposit Crypto
+## Section 2 - Deposit Crypto
 
 The exact steps for depositing crypto assets will vary depending on which coin you are depositing and which wallet you are using. We recommend that you research the current best security practices when considering your choice of wallet and storage of your secret keys, passwords, "seed phrase" etc.
 
@@ -89,7 +89,7 @@ The exact steps for depositing crypto assets will vary depending on which coin y
 
 ![Crypto-003.png](https://nauticus.exchange/help/images/Exchange/Deposit/Crypto-003.png)
 
-## 2.3 Terms and Conditions
+## Section 3 - Terms and Conditions
 
 **Deposits and Withdrawals on Nauticus Exchange**
 
