@@ -1,11 +1,11 @@
 ---
 title: 11_Test for Joe ⚡
 ---
-## 📘Follow these examples 📖
+📘Follow these examples 📖
 
-**You can use both Markdown and Rich text **
+#### You can use both Markdown and Rich text
 
-**📕 Create new docs by **
+#### 📕 Create new docs by
 
 1. **Go to_`/admin`_ page of the site.**
 2. **11_Title of your doc**
