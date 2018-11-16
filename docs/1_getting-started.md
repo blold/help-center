@@ -76,6 +76,7 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
+
 ## Section 3 - Verifying Your Account
 
 **3.1 Complete KYC**
