@@ -76,10 +76,9 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
-
 ## Section 3 - Verifying Your Account
 
-### 3.1 Complete KYC
+**3.1 Complete KYC**
 
 ***Step by step guide to completing KYC on Nauticus Exchange***
 
@@ -213,7 +212,7 @@ And if you did not get verified for some reason, do not worry — we are her
 
 
 
-### 3.2 Issues with KYC?
+**3.2 Issues with KYC?**
 
 If you have experienced issues with your KYC verification, please navigate to the **Cases** section of your Account and copy the error code you find there.
 
