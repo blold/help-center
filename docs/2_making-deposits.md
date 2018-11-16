@@ -1,6 +1,7 @@
 ---
 title: 2. Making Deposits
 ---
+
 # Making Deposits
 
 ## Deposit FIAT
