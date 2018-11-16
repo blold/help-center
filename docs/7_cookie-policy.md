@@ -1,5 +1,5 @@
 ---
-title:  4. Cookie Policy
+title:  7. Cookie Policy
 ---
 
 

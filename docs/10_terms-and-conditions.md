@@ -1,5 +1,5 @@
 ---
-title:  7. Terms & Conditions
+title:  10. Terms & Conditions
 ---
 
 # Terms & Conditions
