@@ -213,7 +213,7 @@ And if you did not get verified for some reason, do not worry — we are her
 
 
 
-## 3.2 Issues with KYC?
+### 3.2 Issues with KYC?
 
 If you have experienced issues with your KYC verification, please navigate to the **Cases** section of your Account and copy the error code you find there.
 
