@@ -7,8 +7,6 @@ title: 1. Getting Started
 
 
 
-
-
 ## Section 1 - Migrate your account
 Account Migration is ONLY for ICO participants and those who created an account on the Nauticus.io site.
 
@@ -46,6 +44,8 @@ To migrate your Nauticus.io account to the [Nauticus.Exchange](https://nauticus.
 
 
 
+
+
 ## Section 2 - Open an Account
 
 
@@ -76,14 +76,12 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 
 
-# Section 3 - Verifying Your Account
 
+## Section 3 - Verifying Your Account
 
+### 3.1 Complete KYC
 
-## 3.1 Complete KYC
-
-
-### Step by step guide to completing KYC on Nauticus Exchange
+***Step by step guide to completing KYC on Nauticus Exchange***
 
 Here’s what you need to do:
 
