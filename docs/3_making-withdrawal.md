@@ -67,6 +67,12 @@ NAUTICUS WITHDRAWAL PROCESS - FIAT
 ![withdraw-07](/images/Exchange/withdraw-07.png)
 
 
+* In the next screen you will select the currency you wish to withdraw and click **NEXT**
+![withdraw-08](/images/Exchange/withdraw-08.png)
+
+
+
+
 'Would you also like to verify your bank account for withdrawals?"
 
 Withdrawal Fiat
