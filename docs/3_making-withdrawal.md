@@ -3,7 +3,7 @@ title: 3. Making Withdrawals
 ---
 
 
-NAUTICUS WITHDRAWAL PROCESS - CRYPTO
+## NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 
 
 
@@ -55,7 +55,7 @@ NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 
 
 
-NAUTICUS WITHDRAWAL PROCESS - FIAT
+## NAUTICUS WITHDRAWAL PROCESS - FIAT
 
 * Select WITHDRAWALS from the menu in the upper right of the screen
 
@@ -71,32 +71,20 @@ NAUTICUS WITHDRAWAL PROCESS - FIAT
 ![withdraw-08](/images/Exchange/withdraw-08.png)
 
 
+### UNVERIFIED USER:
+Users who have not yet verified their bank accounts will need to manually enter the details as shown in the following steps.
 
 
-'Would you also like to verify your bank account for withdrawals?"
+* After selecting the currency you wish to withdraw a data entry screen is presented where you may manually enter the required information and click **NEXT**
 
-Withdrawal Fiat
-
-UNVERIFIED USER:
-
-Click Withdrawal/select fiat
-
-[Dropdown]
-
-"Which of the following applies:"
-
-1. I wish to withdraw AUD to an Australian bank account
-
-2. I wish to withdraw non-AUD fiat to an Australian bank account
-
-3. I wish to withdraw fiat to an international bank account
-
+![withdraw-09](/images/Exchange/withdraw-09.png)
  
 
-[verify screen]
+* In the next screen you are presented with a summary of the withdrawal information to carefully review and double-check before clicking the blue bar at the bottom to confirm
+
+![withdraw-10](/images/Exchange/withdraw-10.png)
 
 
-[user info screen]
 
 "Thank you. We have sent an email requesting your bank account details. Please return it and attach a recent bank statement for the relevant account."
 
