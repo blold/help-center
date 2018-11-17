@@ -3,34 +3,26 @@ title: 3. Making Withdrawals
 ---
 
 NAUTICUS WITHDRAWAL PROCESS - CRYPTO
+
+
+
+* Select WITHDRAWALS from the menu in the upper right of the screen
+
+![1542440173289](C:\Users\josep\AppData\Roaming\Typora\typora-user-images\1542440173289.png)
+
  
 
-[withdrawal screen]
- 
+* Clicking Crypto will bring up the Terms and Conditions screen - please read carefully then click the blue bar at the bottom to signal your acceptance
 
-[crypto T&C screen]
+![1542440441255](C:\Users\josep\AppData\Roaming\Typora\typora-user-images\1542440441255.png)
 
 
-**Withdrawal Terms and Conditions**
 
-"By making a deposit or withdrawal on the Nauticus Exchange platform, you agree to these terms and conditions and to accept the risks associated with use as outlined herein.
 
-Blockchain networks are operated by third parties, and are not under the control of Nauticus. Nauticus takes no responsibility or accepts any liability for the loss of tokens due to use of these networks. Likewise, transfer speed and confirmation times are also outside the control of Nauticus. Third party fees may be taken during the transfer process.
-
-Nauticus reserves its right to refuse any withdrawal of fiat or cryptocurrency if it suspects these may contravene Australian laws, or these terms and conditions.
-
-We are not responsible for loss of funds or delays due to incorrect deposit details placed onto your withdrawals. It is always recommended to copy and paste the deposit/withdrawal details fully and double check details prior to completing your deposit/withdrawal.
-
-All withdrawals are subject to user specific minimums and maximums."
- 
-
-[accept screen]
- 
 
 [dropdown screen ]
 
 "Which cryptocurrency would you like to withdraw?"
-
 
 [withdrawal form screen]
 
@@ -63,7 +55,7 @@ ADD TEXT?  "Your available balance less any transaction and network fees"
 [Swap blue Nauticus fee to above 'you will receive']
 [Change 'Nauticus fee' to 'Plus transaction and network fees = X"]
 [Change 'You will receive' to 'Total withdrawal = X" 
- 
+
 
 [If the withdrawal amount is greater than approx $10k Australian bring up drop box asking "Where are you withdrawing funds to?
 ['Withdrawal to offline wallet'] or ['Withdrawal to another exchange']
@@ -72,7 +64,7 @@ ADD TEXT?  "Nauticus is not responsible for any loss of funds due to incorrect e
 
 
 [Your withdrawal is now being processed]
- 
+
 
 "An email will be sent to confirm the transfer. Please click on the link to authorise the withdrawal within 24 hours. If you do not receive an email, check your spam folder first, then contact support@nauticus.exchange" 
 
@@ -200,7 +192,7 @@ Which of the following applies:
 2. I wish to withdraw non-AUD fiat to an Australian bank account
 
 3. I wish to withdraw fiat to an international bank account
- 
+
 
 [verified info screen - pre-filled]
 
@@ -248,7 +240,7 @@ Button: View pending withdrawals.
 
 
 Main Components
- 
+
 
 **Step 1.  Verifying the withdraw destination**
 
@@ -269,14 +261,14 @@ All FIAT withdrawals must go to a bank account that is verified to be owned by t
 5. Once a reply has been received, a compliance officer will review the details and insert them into the admin dashboard - *currently in development, expected completion 16/11.*
 
 6. **END**
- 
+
  
 
 **Step 2. Verifying withdraw requests.**
- 
+
 
 [Unverified FIAT Monitor](https://www.notion.so/e7f2e2b152d74761acffa1fec1699d4a)
- 
+
 
 There is no block on a user from submitting a withdraw request on any currency - apart from the disclaimer in step 1.
 
