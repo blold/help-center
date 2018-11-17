@@ -3,8 +3,7 @@ title: 3. Making Withdrawals
 ---
 
 
-## NAUTICUS WITHDRAWAL PROCESS - CRYPTO
-
+## Withdrawing Crypto
 
 
 * Select WITHDRAWALS from the menu in the upper right of the screen
@@ -13,17 +12,14 @@ title: 3. Making Withdrawals
 
 
 
-
 * Clicking Crypto will bring up the Terms and Conditions screen - please read carefully then click the blue bar at the bottom to signal your acceptance
 
 ![withdraw-02](/images/Exchange/withdraw-02.png)
 
 
-
 * From the next screen we will select the wallet containing the asset we wish to withdraw
 
 ![withdraw-03](/images/Exchange/withdraw-03.png)
-
 
 
 * The next screen is where we will enter the required information for the transfer and click CONTINUE
@@ -32,7 +28,6 @@ title: 3. Making Withdrawals
 
 
 * Next we are presented with a summary of the transaction where you should carefully review all details you have entered and double-check that everything is correct before clicking CONFIRM
-
 
 
 **IMPORTANT:** *please read carefully the warning message regarding lost funds due to incorrect details being entered and confirmed*
@@ -55,7 +50,7 @@ title: 3. Making Withdrawals
 
 
 
-## NAUTICUS WITHDRAWAL PROCESS - FIAT
+## Withdrawing Fiat
 
 * Select WITHDRAWALS from the menu in the upper right of the screen
 
