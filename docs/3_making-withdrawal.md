@@ -57,6 +57,15 @@ NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 
 NAUTICUS WITHDRAWAL PROCESS - FIAT
 
+* Select WITHDRAWALS from the menu in the upper right of the screen
+
+![withdraw-01](/images/Exchange/withdraw-01.png)
+
+
+* Clicking **Fiat** brings up the Terms and Conditions screen. Please read carefully then click the blue bar at the bottom to accept
+
+![withdraw-07](/images/Exchange/withdraw-07.png)
+
 
 'Would you also like to verify your bank account for withdrawals?"
 
