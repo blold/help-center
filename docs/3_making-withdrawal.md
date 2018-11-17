@@ -8,13 +8,13 @@ NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 
 * Select WITHDRAWALS from the menu in the upper right of the screen
 
-![1542440173289](C:\Users\josep\AppData\Roaming\Typora\typora-user-images\1542440173289.png)
+![withdraw-01](https://nauticus.exchange/help/images/Exchange/Withdraw/withdraw-01.png)
 
  
 
 * Clicking Crypto will bring up the Terms and Conditions screen - please read carefully then click the blue bar at the bottom to signal your acceptance
 
-![1542440441255](C:\Users\josep\AppData\Roaming\Typora\typora-user-images\1542440441255.png)
+![withdraw-02](https://nauticus.exchange/help/images/Exchange/Withdraw/withdraw-02.png)
 
 
 
