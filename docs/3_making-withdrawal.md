@@ -8,15 +8,13 @@ NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 
 * Select WITHDRAWALS from the menu in the upper right of the screen
 
-![withdraw-01](https://nauticus.exchange/help/images/Exchange/Withdraw/withdraw-01.png)
+![withdraw-01](https://nauticus.exchange/help/images/Exchange/withdraw-01.png)
 
  
 
 * Clicking Crypto will bring up the Terms and Conditions screen - please read carefully then click the blue bar at the bottom to signal your acceptance
 
-![withdraw-02](https://nauticus.exchange/help/images/Exchange/Withdraw/withdraw-02.png)
-
-
+![withdraw-02](https://nauticus.exchange/help/images/Exchange/withdraw-02.png)
 
 
 
@@ -26,10 +24,10 @@ NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 
 [withdrawal form screen]
 
-
 [get confirmation of the below]
 ADD TEXT? 
 "Important:
+
 - Minimum withdrawal XX
 - 24 Hour withdrawal limit XX"
 
