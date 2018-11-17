@@ -11,19 +11,19 @@ NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 ![withdraw-01](/images/Exchange/withdraw-01.png)
 
 
+
+
 * Clicking Crypto will bring up the Terms and Conditions screen - please read carefully then click the blue bar at the bottom to signal your acceptance
 
 ![withdraw-02](/images/Exchange/withdraw-02.png)
 
 
 
-[dropdown screen ]
+* From the next screen we will select the wallet containing the asset we wish to withdraw
+
+![withdraw-03](/images/Exchange/withdraw-03.png)
 
 
-
-"Which cryptocurrency would you like to withdraw?"
-
-[withdrawal form screen]
 
 [get confirmation of the below]
 ADD TEXT? 
