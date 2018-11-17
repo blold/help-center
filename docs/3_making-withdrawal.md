@@ -1,6 +1,4 @@
----
 title: 3. Making Withdrawals
----
 
 NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 
@@ -25,47 +23,32 @@ NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 
 
 
-[get confirmation of the below]
-ADD TEXT? 
-"Important:
+* The next screen is where we will enter the required information for the transfer and click CONTINUE
 
-- Minimum withdrawal XX
-- 24 Hour withdrawal limit XX"
-
- 
-
-Do not send money directly to an ICO address from this screen. You cannot be credited with tokens from an ICO if you send money directly from an exchange.
-
- 
-
-[address screen ]
-
-[optional message]
+   ![withdraw-04](/images/Exchange/withdraw-04.png)
 
 
-[How much would you like to receive?]" 
-ADD TEXT? "How much would you like to receive in your external address after transaction and network fees are taken out"
+* Next we are presented with a summary of the transaction where you should carefully review all details you have entered and double-check that everything is correct before clicking CONFIRM
 
 
-[MAX] 
-ADD TEXT?  "Your available balance less any transaction and network fees"
+
+**IMPORTANT:** *please read carefully the warning message regarding lost funds due to incorrect details being entered and confirmed*
+
+![withdraw-05](/images/Exchange/withdraw-05.png)
 
 
-[Swap blue Nauticus fee to above 'you will receive']
-[Change 'Nauticus fee' to 'Plus transaction and network fees = X"]
-[Change 'You will receive' to 'Total withdrawal = X" 
+
+* A confirmation screen advises **Transaction Pending** and gives a reminder to check your email and click to confirm the withdrawal
+
+  ![withdraw-06](/images/Exchange/withdraw-06.png)
 
 
-[If the withdrawal amount is greater than approx $10k Australian bring up drop box asking "Where are you withdrawing funds to?
-['Withdrawal to offline wallet'] or ['Withdrawal to another exchange']
 
-ADD TEXT?  "Nauticus is not responsible for any loss of funds due to incorrect entry of the desination address. By pressing confirm you acknowledge that incorrect details may result in a total loss of funds." 
+  **NOTE:**	An email will be sent to confirm the transfer. Please click on the link to authorize the withdrawal within 24 hours. If you do not receive an email, check your spam folder first, then contact **support@nauticus.exchange**
 
 
-[Your withdrawal is now being processed]
 
-
-"An email will be sent to confirm the transfer. Please click on the link to authorise the withdrawal within 24 hours. If you do not receive an email, check your spam folder first, then contact support@nauticus.exchange" 
+* The buttons at the bottom provide you the choice to either return to the exchange or to go back and make another withdrawal
 
 
 
