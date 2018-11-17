@@ -16,11 +16,10 @@ NAUTICUS WITHDRAWAL PROCESS - CRYPTO
 ![withdraw-02](/images/Exchange/withdraw-02.png)
 
 
-![withdraw-02](https://nauticus.exchange/help/images/Exchange/Migrate-1.png)
-
-
 
 [dropdown screen ]
+
+
 
 "Which cryptocurrency would you like to withdraw?"
 
