@@ -83,7 +83,7 @@ The topic of STOP LIMIT orders is more advanced than the previously discussed or
 
 
 
-  ![1542542696632](C:\Users\josep\AppData\Roaming\Typora\typora-user-images\1542542696632.png)
+  ![limit-buy-01](/images/Exchange/limit-buy-01.png)
 
 
 
@@ -91,10 +91,8 @@ The topic of STOP LIMIT orders is more advanced than the previously discussed or
 
 
 
-  ![1542543008736](C:\Users\josep\AppData\Roaming\Typora\typora-user-images\1542543008736.png)
+  ![limit-buy-02](/images/Exchange/limit-buy-02.png)
 
 
 
 * Review the summary information and click the large  **PLACE BUY ORDER**  button at the bottom to place the order into the order queue
-
-
