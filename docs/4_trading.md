@@ -39,7 +39,7 @@ title: 4. Trading
 
 
 
-## Trade Types - Basic Description
+## Basic Description of Trade Types
 
 ### LIMIT
 
