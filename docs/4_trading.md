@@ -43,3 +43,11 @@ title: 4. Trading
 
 ### LIMIT
 
+Use a LIMIT order when you would like to specify the price at which you would like to either Buy or Sell a given asset and the amounts that should be either bought or sold. The most obvious advantage here is the ability have an order execute at your desired price without the need to sit and monitor price activity.
+
+When you set a LIMIT order your order will be placed into the queue to await for price action on the market to move to a price either equal to or better than the price you have specified, at which time the order will execute. 
+
+Do keep in mind that only the number of units available to be either bought or sold at this price will execute resulting in a partial fill.
+
+### MARKET
+
