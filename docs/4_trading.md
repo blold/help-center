@@ -65,5 +65,13 @@ Do keep in mind that only the number of units available to be either bought or s
 
 ### STOP LIMIT
 
+A STOP LIMIT order can be a useful part of your trading strategy if used properly. When the order is setup a STOP PRICE is specified which is the market price at which the LIMIT ORDER will activate.
+
+These orders can be useful to prevent losses in a falling market by executing a SELL before the price has fallen too far. Another way to use such orders would be to ensure that a BUY is executed in a rising market before the price has climbed to far. 
+
+The topic of STOP LIMIT orders is more advanced than the previously discussed order types and careful research should be conducted beforehand to ensure that you fully understand the concept of STOP LIMIT orders to ensure that you get the most out of these powerful tools.
+
+
+
 
 
