@@ -47,13 +47,19 @@ Use a LIMIT order when you would like to specify the price at which you would li
 
 When you set a LIMIT order your order will be placed into the queue to await for price action on the market to move to a price either equal to or better than the price you have specified, at which time the order will execute. 
 
-Do keep in mind that only the number of units available to be either bought or sold at this price will execute resulting in a partial fill.
+Do keep in mind that only the number of units available to be either bought or sold at this price will execute sometimes resulting in a partially filled order.
 
 Because a LIMIT order is visible to the market it may not be placed either *above the current market price* for a BUY order or *below the current market price* for a SELL order.  More will be discussed for why the ability to setup such orders may be useful sometimes and how to do this below under the  **STOP LIMIT**  topic.
 
 
 
 ### MARKET
+
+Use a MARKET order when you would like your order to execute at the current market price for that asset. 
+
+The most obvious advantage to this type of order is the ability to have your executed a the current market value without the need to wait on the price action to reach a certain level.
+
+Do keep in mind that only the number of units available to be either bought or sold at this price will execute sometimes resulting in a partially filled order.
 
 
 
