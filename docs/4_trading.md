@@ -38,3 +38,8 @@ title: 4. Trading
 10 - When all is ready click here to submit your order
 
 
+
+## Trade Types - Basic Description
+
+### LIMIT
+
