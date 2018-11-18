@@ -84,3 +84,17 @@ Users who have not yet verified their bank accounts will need to manually enter 
  
 ![withdraw-11](/images/Exchange/withdraw-11.png)
 
+
+## Terms and Conditions
+
+### Withdrawal Terms and Conditions
+
+By making a deposit or withdrawal on the Nauticus Exchange platform, you agree to these terms and conditions and to accept the risks associated with use as outlined herein.
+
+Blockchain networks are operated by third parties, and are not under the control of Nauticus. Nauticus takes no responsibility or accepts any liability for the loss of tokens due to the use of these networks. Likewise, transfer speed and confirmation times are also outside the control of Nauticus. Third party fees may be taken during the transfer process.
+
+Nauticus reserves its right to refuse any withdrawal of fiat or cryptocurrency if it suspects these may contravene Australian laws, or these terms and conditions.
+
+We are not responsible for loss of funds or delays due to incorrect deposit details placed onto your withdrawals. It is always recommended to copy and paste the deposit/withdrawal details fully and double check details prior to completing your deposit/withdrawal
+
+All withdrawals are subject to user specific minimums and maximums.
