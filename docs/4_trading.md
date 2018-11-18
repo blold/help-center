@@ -75,3 +75,26 @@ The topic of STOP LIMIT orders is more advanced than the previously discussed or
 
 
 
+## Setting up an Order
+
+### LIMIT BUY
+
+* Select LIMIT from the Order Form and click to highlight BUY if not already selected
+
+
+
+  ![1542542696632](C:\Users\josep\AppData\Roaming\Typora\typora-user-images\1542542696632.png)
+
+
+
+* Enter the desired quantity and target price you wish to pay
+
+
+
+  ![1542543008736](C:\Users\josep\AppData\Roaming\Typora\typora-user-images\1542543008736.png)
+
+
+
+* Review the summary information and click the large  **PLACE BUY ORDER**  button at the bottom to place the order into the order queue
+
+
