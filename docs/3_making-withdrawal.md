@@ -85,54 +85,7 @@ Users who have not yet verified their bank accounts will need to manually enter 
 ![withdraw-11](/images/Exchange/withdraw-11.png)
 
 
-[Email text for Australian Bank Account and other currencies]
 
-Dear Nauticus User,
-
-Thank you for verifying your Australian bank account. 
-
-Please hit 'reply' and enter the following details
-
-Account holder name: 
-Account holder address: 
-Account BSB:
-Account number:
-
-Bank name:
-SWIFT/BIC Code of the bank:
-
-*Please note that your account first and last name must EXACTLY match the information you provided during the KYC verification process. If the details are different please select another account or contact support@nauticus.exchange for assistance.*
-
-To complete your application, please attach a PDF or photograph of the first page the relevant bank statement (it can be no less than three months old).
-
-Thank you for verifying your bank account,
-
-Nauticus Exchange Team
-
-
-[Email text for international bank accounts]
-
-Dear Nauticus User,
-
-Thank you for verifying your Australian bank account. 
-
-Please hit 'reply' and enter the following details
-
-Account holder name: 
-Account holder address: 
-
-IBAN or Bank Account number:
-Bank name:
-SWIFT/BIC Code of the bank:
-Bank Address: 
-
-*Please note that your account first and last name must EXACTLY match the information you provided during the KYC verification process. If the details are different please select another account or contact support@nauticus.exchange for assistance.*
-
-To complete your application, please attach a PDF or photograph of the first page the relevant bank statement (it can be no less than three months old).
-
-Thank you for verifying your bank account,
-
-Nauticus Exchange Team
 
 Withdrawal Fiat
 
