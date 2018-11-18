@@ -49,5 +49,15 @@ When you set a LIMIT order your order will be placed into the queue to await for
 
 Do keep in mind that only the number of units available to be either bought or sold at this price will execute resulting in a partial fill.
 
+Because a LIMIT order is visible to the market it may not be placed either *above the current market price* for a BUY order or *below the current market price* for a SELL order.  More will be discussed for why the ability to setup such orders may be useful sometimes and how to do this below under the  **STOP LIMIT**  topic.
+
+
+
 ### MARKET
+
+
+
+### STOP LIMIT
+
+
 
