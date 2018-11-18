@@ -77,7 +77,8 @@ The topic of STOP LIMIT orders is more advanced than the previously discussed or
 
 ## Setting up an Order
 
-### LIMIT BUY
+### LIMIT 
+**BUY**
 
 * Select LIMIT from the Order Form and click to highlight BUY if not already selected
 
@@ -96,3 +97,25 @@ The topic of STOP LIMIT orders is more advanced than the previously discussed or
 
 
 * Review the summary information and click the large  **PLACE BUY ORDER**  button at the bottom to place the order into the order queue
+
+
+
+**SELL**
+
+* Select LIMIT from the Order Form and click to highlight SELL if not already selected
+
+
+
+![limit-sell-01](/images/Exchange/limit-sell-01.png)
+
+
+
+* Enter the desired quantity and the target price you wish at which you wish to sell
+
+
+
+![limit-sell-02](/images/Exchange/limit-sell-02.png)
+
+
+
+* Review the summary information and click the large  **PLACE SELL ORDER**  button at the bottom to place the order into the order queue
