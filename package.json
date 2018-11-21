@@ -1,11 +1,11 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "npx @nauticus-blockchain/vuepress build docs && cp _redirects _headers ./docs/.vuepress/dist/"
+    "docs:build": "vuepress build docs && cp _redirects _headers ./docs/.vuepress/dist/"
   },
   "devDependencies": {},
   "dependencies": {
-    "@nauticus-blockchain/vuepress": "^1.0.0",
-    "directory-tree": "^2.1.0"
+    "directory-tree": "^2.1.0",
+    "vuepress": "^0.14.5"
   }
 }
