@@ -61,6 +61,16 @@ title: 3. Making Withdrawals
 
 ![withdraw-08a](https://nauticus.exchange/help/images/Exchange/withdraw-08a.png)
 
+
+
+* Clicking the blue button will trigger a verification email to be sent your account and an information screen will provide you with details
+
+![withdraw-08b](https://nauticus.exchange/help/images/Exchange/withdraw-08b.png)
+
+
+
+***PLEASE NOTE - the next paragraphs are in the process of being UPDATED*** 
+
 * After selecting the currency you wish to withdraw a data entry screen is presented where you may manually enter the required information and click **NEXT**
 
 ![withdraw-09](https://nauticus.exchange/help/images/Exchange/withdraw-09.png)
