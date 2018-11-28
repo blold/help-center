@@ -54,10 +54,12 @@ title: 3. Making Withdrawals
   * Withdraw AUD to an Australian account
   * Withdraw Non-AUD fiat to an Australian account
   * Withdraw Fiat to an International account
+
 ![withdraw-08](https://nauticus.exchange/help/images/Exchange/withdraw-08.png)
 
-* Make your selection and you will be presented with the button 
+* Make your selection and you will be presented with the button to **VERIFY YOUR BANK ACCOUNT**
 
+![withdraw-08a](https://nauticus.exchange/help/images/Exchange/withdraw-08a.png)
 
 * After selecting the currency you wish to withdraw a data entry screen is presented where you may manually enter the required information and click **NEXT**
 
