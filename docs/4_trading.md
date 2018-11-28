@@ -14,7 +14,7 @@ title: 4. Trading
 
 
 
-![trade-01](/images/Exchange/trade-01.png)
+![trade-01](https://nauticus.exchange/help/images/Exchange/trade-01.png)
 
 
 1   - Select your Trading Pair here
@@ -84,7 +84,7 @@ The topic of STOP LIMIT orders is more advanced than the previously discussed or
 
 
 
-  ![limit-buy-01](/images/Exchange/limit-buy-01.png)
+  ![limit-buy-01](https://nauticus.exchange/help/images/Exchange/limit-buy-01.png)
 
 
 
@@ -92,7 +92,7 @@ The topic of STOP LIMIT orders is more advanced than the previously discussed or
 
 
 
-  ![limit-buy-02](/images/Exchange/limit-buy-02.png)
+  ![limit-buy-02](https://nauticus.exchange/help/images/Exchange/limit-buy-02.png)
 
 
 
@@ -106,7 +106,7 @@ The topic of STOP LIMIT orders is more advanced than the previously discussed or
 
 
 
-![limit-sell-01](/images/Exchange/limit-sell-01.png)
+![limit-sell-01](https://nauticus.exchange/help/images/Exchange/limit-sell-01.png)
 
 
 
@@ -114,7 +114,7 @@ The topic of STOP LIMIT orders is more advanced than the previously discussed or
 
 
 
-![limit-sell-02](/images/Exchange/limit-sell-02.png)
+![limit-sell-02](https://nauticus.exchange/help/images/Exchange/limit-sell-02.png)
 
 
 
