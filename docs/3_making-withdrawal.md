@@ -36,7 +36,13 @@ title: 3. Making Withdrawals
 
 ## Withdrawing Fiat
 
+### Bank Account Approval
+
 * Select WITHDRAWALS from the menu in the upper right of the screen
+
+![withdraw-00](https://nauticus.exchange/help/images/Exchange/withdraw-00.png)
+
+* Here we can select between Fiat and Crypto
 
 ![withdraw-01](https://nauticus.exchange/help/images/Exchange/withdraw-01.png)
 
@@ -44,12 +50,14 @@ title: 3. Making Withdrawals
 
 ![withdraw-07](https://nauticus.exchange/help/images/Exchange/withdraw-07.png)
 
-* In the next screen you will select the currency you wish to withdraw and click **NEXT**
-  ![withdraw-08](https://nauticus.exchange/help/images/Exchange/withdraw-08.png)
+* Here you will be asked to select between 3 account options
+  * Withdraw AUD to an Australian account
+  * Withdraw Non-AUD fiat to an Australian account
+  * Withdraw Fiat to an International account
+![withdraw-08](https://nauticus.exchange/help/images/Exchange/withdraw-08.png)
 
-### UNVERIFIED USER:
+* Make your selection and you will be presented with the button 
 
-Users who have not yet verified their bank accounts will need to manually enter the details as shown in the following steps.
 
 * After selecting the currency you wish to withdraw a data entry screen is presented where you may manually enter the required information and click **NEXT**
 
