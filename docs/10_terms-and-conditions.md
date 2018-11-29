@@ -1,7 +1,6 @@
 ---
-title:  10. Terms & Conditions
+title: 10. Terms & Conditions
 ---
-
 # Terms & Conditions
 
 ## 1. Acceptance
@@ -16,11 +15,9 @@ title:  10. Terms & Conditions
 
 1.5 By using the Site and/or Services, you accept and understand that NEX Markets may charge certain fees for transactions made through the Site and/or Services (“Commission”).
 
-
-
 ## 2. Risks and Limitations
 
-7.2.1 The trading of digital and fiat currencies involves significant risk. Prices can and do fluctuate on any given day and are inherently unstable. Due to such price fluctuations, you may increase or lose value in your assets at any given moment. There is an inherent risk that losses may be experienced through buying, selling, or trading anything on the market. By using the Site and/or Services, you acknowledge, accept and assume all such risks.
+2.1 The trading of digital and fiat currencies involves significant risk. Prices can and do fluctuate on any given day and are inherently unstable. Due to such price fluctuations, you may increase or lose value in your assets at any given moment. There is an inherent risk that losses may be experienced through buying, selling, or trading anything on the market. By using the Site and/or Services, you acknowledge, accept and assume all such risks.
 
 2.2 Cryptocurrencies are not backed by any government or physical commodities; instead they are unique “fiat” currencies backed by technology and trust. You should carefully assess whether your financial situation and tolerance for risk is suitable for buying, selling or trading Cryptocurrency.
 
@@ -31,17 +28,15 @@ Nauticus Coin is NOT a share, stake, debt, security, or equivalent right, and do
 
 2.5 NEX Markets have the right to restrict, ban or suspend transactions made on the Site or with NEX Markets should there be any suspicions of illegal activity or a breach of the Terms and Conditions.
 
-
+2.6 Nauticus do not provide service to any individual or entity from “prescribed foreign countries” under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act). (http://www.austrac.gov.au/businesses/obligations-and-compliance/countermeasures). The two countries that have been declared as “prescribed foreign countries” are Iran and  the Democratic People’s Republic of Korea (the DPRK, or North Korea).
 
 ## 3. Limited Rights of Use
 
-7.3.1 Unless otherwise specified, all materials on this Site are the property of NEX Markets and are protected by copyright, trademark and other applicable laws. You are permitted to view, download, print a copy of the materials from this solely for your personal, informational, noncommercial use, provided you keep intact all copyright and other proprietary notices.
+3.1 Unless otherwise specified, all materials on this Site are the property of NEX Markets and are protected by copyright, trademark and other applicable laws. You are permitted to view, download, print a copy of the materials from this solely for your personal, informational, noncommercial use, provided you keep intact all copyright and other proprietary notices.
 
-7.3.2 Trademarks, video, logos, and service marks, software, audio, data, trades, prices, text, charts, graphs, images, graphics and any other material appearing on the Site are all the property of NEX Markets unless otherwise specified, in which case such material belong to their respective rights holders. These materials should under no circumstances be copied, modified, posted, republished, reproduced, collected, distributed, uploaded, transmitted, scraped, or collected by any means and in any form, manual or automated, unless specifically approved by NEX Markets.
+3.2 Trademarks, video, logos, and service marks, software, audio, data, trades, prices, text, charts, graphs, images, graphics and any other material appearing on the Site are all the property of NEX Markets unless otherwise specified, in which case such material belong to their respective rights holders. These materials should under no circumstances be copied, modified, posted, republished, reproduced, collected, distributed, uploaded, transmitted, scraped, or collected by any means and in any form, manual or automated, unless specifically approved by NEX Markets.
 
-7.3.3 The use of any such materials listed in Section 3 on any other website or networked computer environment for any other purpose is strictly prohibited; any such actions which violate NEX Markets’s copyright, trademarks and other applicable and relevant rights is a breach of these Terms and Conditions and may be subject to legal action.
-
-
+3.3 The use of any such materials listed in Section 3 on any other website or networked computer environment for any other purpose is strictly prohibited; any such actions which violate NEX Markets’s copyright, trademarks and other applicable and relevant rights is a breach of these Terms and Conditions and may be subject to legal action.
 
 ## 4. Maintaining Your Account
 
@@ -49,11 +44,11 @@ Nauticus Coin is NOT a share, stake, debt, security, or equivalent right, and do
 
 4.2 You agree that you will not use any Account other than your own, fraudulently impersonate or access the Account of any other user at any time, or assist others in obtaining unauthorized access. The creation or use of Accounts without obtaining the prior express permission from NEX Markets will result in the immediate suspension of all said Accounts, as well as all pending purchase/sale offers. Attempting to do the above mentioned or assisting others, or the distribution of instructions, software or tools for that purpose, will result in the Accounts of such persons being terminated. 
 
-7.4.3 Should you be in breach of above Terms and Conditions in 4.1, NEX Markets may elect to take further action against you after termination of your account.
+4.3 Should you be in breach of above Terms and Conditions in 4.1, NEX Markets may elect to take further action against you after termination of your account.
 
 4.4 You are responsible for your Account information and its confidentiality, including safeguarding your cryptocurrency wallets, your password, financial information, personal information and contact details, and for all activity including transactions conducted or posted to your Account.
 
-7.4.5 We may request additional information from you, including authenticating documents if we deem there to be suspicious activity on your Account.
+4.5 We may request additional information from you, including authenticating documents if we deem there to be suspicious activity on your Account.
 
 4.6 Any transactions that have been deemed suspicious will be frozen pending our review process.
 
@@ -65,15 +60,13 @@ Nauticus Coin is NOT a share, stake, debt, security, or equivalent right, and do
 
 4.10 By creating an Account, you also consent to receiving electronic communications from NEX Markets. These communications may include notices about your Account and are part of your relationship with us.
 
-7.4.11 We may also send you promotional communications via email, including, but not limited to, special offers, surveys, newsletters and other news and information NEX Markets believes to be of interest to you. You may opt out of receiving these promotional emails at any time by following the unsubscribe instructions provided therein.
-
-
+4.11 We may also send you promotional communications via email, including, but not limited to, special offers, surveys, newsletters and other news and information NEX Markets believes to be of interest to you. You may opt out of receiving these promotional emails at any time by following the unsubscribe instructions provided therein.
 
 ## 5. Termination
 
-7.5.1 You have the right to terminate your relationship with NEX Markets, and close your Account at any time, subjected to the settlement of transactions pending on your Account.
+5.1 You have the right to terminate your relationship with NEX Markets, and close your Account at any time, subjected to the settlement of transactions pending on your Account.
 
-7.5.2 You agree that NEX Markets may, by giving notice, in its sole discretion terminate your account and all access to NEX Markets’s Sites. NEX Markets may also:
+5.2 You agree that NEX Markets may, by giving notice, in its sole discretion terminate your account and all access to NEX Markets’s Sites. NEX Markets may also:
 
 (a) terminate, limit or suspend the service of your account
 
@@ -104,8 +97,6 @@ Nauticus Coin is NOT a share, stake, debt, security, or equivalent right, and do
 5.5 You agree that NEX Markets will not be liable to you or to any third party for termination of your Account or access to the Site. The suspension of an Account shall not affect the payment of the commissions due to NEX Markets for past transactions. Upon termination, you must provide details for a valid bank account to allow for the transfer of any currencies credited to your account.
 
 5.6 Termination of your Account does not prejudice or in any way limit any rights of NEX Markets accruing during your use of the Site or Services, including any rights contained in these Terms and Conditions.
-
-
 
 ## 6. Limitation of Liability and warranties
 
@@ -139,8 +130,6 @@ unauthorized manner, or
 (b) the amount of the transaction(s) that are the subject of the claim less any amount of
 Commission that may be due and payable in respect of such transaction(s).
 
-
-
 ## 7. Legal, Financial or Other Professional Advice
 
 7.1 The provision by NEX Markets of the Services should in no way be considered legal, financial or any other kind of specialized or expert advice. By using the Site and/or Services, you confirm that:
@@ -152,21 +141,18 @@ Commission that may be due and payable in respect of such transaction(s).
 (c) you understand that NEX Markets gives no warranty regarding the suitability of our
 Services and assume no fiduciary duties to you.
 
-7.7.2 You represent and warrant that you understand that any recommendations or commentary made by NEX Markets or its employees or other users should be considered as general in nature, and you should use your own judgment or seek the advice of an expert before taking any action regardless of such statement. We give no assurance as to the accuracy or completeness of any such statement.
+7.2 You represent and warrant that you understand that any recommendations or commentary made by NEX Markets or its employees or other users should be considered as general in nature, and you should use your own judgment or seek the advice of an expert before taking any action regardless of such statement. We give no assurance as to the accuracy or completeness of any such statement.
 
-7.7.3 THIS IS NOT A FINANCIAL PRODUCT. THIS IS NOT IN ANY WAY OR FORM A MANAGED INVESTMENT SCHEME OR FINANCIAL SERVICE. IT IS A SOFTWARE PRODUCT CREATED FOR THE BENEFIT OF THE TRADING AND RETAIL COMMUNITY. NAUTICUS COINS ARE PURELY A METHOD OF CONDUCTING TRANSACTIONS ON THE NAUTICUS PLATFORM. THEY SHOULD NOT BE SWAPPED FOR OTHER ITEMS OF VALUE ON THE BELIEF, ASSUMPTION OR POSSIBILITY THAT THEY MAY INCREASE IN VALUE. YOU ARE SOLEY RESPONSIBLE OF THE MANAGEMENT OF YOUR CRYPTOCURRENCIES.
-
-
+7.3 THIS IS NOT A FINANCIAL PRODUCT. THIS IS NOT IN ANY WAY OR FORM A MANAGED INVESTMENT SCHEME OR FINANCIAL SERVICE. IT IS A SOFTWARE PRODUCT CREATED FOR THE BENEFIT OF THE TRADING AND RETAIL COMMUNITY. NAUTICUS COINS ARE PURELY A METHOD OF CONDUCTING TRANSACTIONS ON THE NAUTICUS PLATFORM. THEY SHOULD NOT BE SWAPPED FOR OTHER ITEMS OF VALUE ON THE BELIEF, ASSUMPTION OR POSSIBILITY THAT THEY MAY INCREASE IN VALUE. YOU ARE SOLEY RESPONSIBLE OF THE MANAGEMENT OF YOUR CRYPTOCURRENCIES.
 
 ## 8. Indemnity
 
 To the full extent permitted by applicable law, you hereby agree to indemnify NEX Markets, and its partners against any action, liability, cost, claim, loss, damage, proceeding or expense suffered or incurred whether directly or indirectly arising from your use of NEX Markets Sites and/or Services, or from your violation of these Terms and Conditions.
 
-
-
-## 9. Damages 
+## 9. Damages
 
 ### Caused by Vulnerabilities Inherent in the Internet or in Blockchain
+
 9.1 Use of the internet may not be secure. You agree that NEX Markets is not responsible whatsoever for any damages caused by the interception, loss or alteration to any information sent over the internet.
 
 9.2 NEX Markets takes security very seriously, and takes all reasonable steps to ensure the highest security and privacy of information transmitted between the Site, NEX Markets and its affiliates, and will take reasonable steps to ensure the security and privacy of any information transmitted during your use of our Services, however under no circumstances should such information be assumed as being “confidential” or free from interception or interference from a third party.
@@ -180,15 +166,10 @@ Resolution concerning deposits, withdrawals, Account balances, Services or other
 
 9.5 NEX Markets does not make any representation and does not warrant the safety of the Site and is not liable for any lost value or stolen property from the Site or during communications, regardless of whether NEX Markets was negligent in providing appropriate security.
 
-
-
 ## 10.  Governing Law and Jurisdiction
 
 These Terms and Conditions and your relationship with NEX Markets are governed by the law in the state of Victoria and the Commonwealth of Australia and by using the Site and/or Services, you submit to the non-exclusive jurisdiction of the courts of the state of Victoria and the Commonwealth of Australia in relation to said use of the Site and/or Services.
 
-
-
 ## 11. Modification of Terms and Conditions
 
-NEX Markets reserves the right to change, add or remove portions of these Terms and Conditions, at any time, at its sole discretion. After the posting of a notice of changes to the Terms and Conditions, your continued use of the Site will signify that you accept, understand, and agree to comply with the updated Terms and Conditions for all subsequent transactions. 
-
+NEX Markets reserves the right to change, add or remove portions of these Terms and Conditions, at any time, at its sole discretion. After the posting of a notice of changes to the Terms and Conditions, your continued use of the Site will signify that you accept, understand, and agree to comply with the updated Terms and Conditions for all subsequent transactions.
