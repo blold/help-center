@@ -1,5 +1,5 @@
 ---
-title:  6. Privacy Policy
+title: 6. Privacy Policy
 ---
 
 
@@ -50,11 +50,11 @@ We take all reasonable steps (including the employment of appropriate security s
 
 ## Quality
 
-We take all reasonable steps to ensure that any personal information that we collect and use is accurate, complete and up-to-date. We may, under our discretion or required by law, require updates of your personal information periodically, this includes but not limited to your phone, address, email, passport, drivers license, and other relevant verification documents. Nauticus will insure sufficient time is provided for you to supply the information, however you understand and accept that depending on circumstances, we may request it with little allotted timeframe. In either case, we are not liable or held accountable for your availability to provide these information, nor are we liable for any loss you may incur.
+We take all reasonable steps to ensure that any personal information that we collect and use is accurate, complete and up-to-date. We may, under our discretion or required by law, require updates of your personal information periodically, this includes but not limited to your phone, address, email, passport, drivers license, and other relevant verification documents. Nauticus will insure sufficient time is provided for you to supply the information, however you understand and accept that depending on circumstances, we may request it with little allotted time-frame. In either case, we are not liable or held accountable for your availability to provide these information, nor are we liable for any loss you may incur. It is your responsibility to advise us of changes to your personal information to ensure that our records are accurate.
 
 ## Access and correction
 
-You have a right to access your personal information, subject to some exceptions allowed by law. If you wish to access your personal information, you should contact us via the Nauticus Support page. We reserve the right to charge a fee for searching for and providing access to your information.
+You have a right to access your personal information, subject to some exceptions allowed by law. If you wish to access your personal information, you should contact us via the Nauticus Support page. 
 
 ## Destruction
 
