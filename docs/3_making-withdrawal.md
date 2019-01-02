@@ -69,7 +69,7 @@ title: 3. Making Withdrawals
 
 
 
-***PLEASE NOTE - the next paragraphs are in the process of being UPDATED*** 
+### *PLEASE NOTE - the next paragraphs are in the process of being UPDATED*
 
 * After selecting the currency you wish to withdraw a data entry screen is presented where you may manually enter the required information and click **NEXT**
 
