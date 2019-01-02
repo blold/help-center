@@ -5,7 +5,7 @@ title: 5. Fee Schedule
 
 
 
-## Trading fees
+## Trading fee
 
 The trading fee for all pairs is 0.1 percent.
 
