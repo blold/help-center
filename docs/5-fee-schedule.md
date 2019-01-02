@@ -5,11 +5,11 @@ title: 5. Fee Schedule
 
 
 
-## Trading fee
+## Trading fees
 
 The trading fee for all pairs is 0.1 percent.
 
- 
+
 ## Discounted trading fee for NTS holders
 
 For the first month, users who pay fees with NTS will pay a discounted transaction fee of 0.001 per cent.
@@ -25,7 +25,8 @@ To access the discount, you'll need to have an existing NTS balance and turn on 
 Fiat withdrawals to Australian bank accounts are free. Fiat withdrawals to overseas or international accounts attract a flat AUD$40 fee. Your financial institution may charge additional fees. 
 
 
-## Crypto withdrawal fees
+## Crypto withdrawal fees
+
 
 **BTC** - 0.0006
 
