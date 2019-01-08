@@ -48,7 +48,7 @@ Terrorism financing differs from money laundering in 3 main ways:
 
 The AML/CTF Act provides a list of ‘designated services’, such as opening an account or making a deposit. Before receiving any of these designated services, customers will be required to provide proof of identity or similar documentation.
 
-Nauticus is required to collect and verify this information from all types of customer:
+Nauticus is required to collect and verify this information from all types of customers:
 
 ·         Personal - an individual person of any nationality
 
