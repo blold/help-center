@@ -28,7 +28,7 @@ Nauticus Coin is NOT a share, stake, debt, security, or equivalent right, and do
 
 2.5 Nauticus have the right to restrict, ban or suspend transactions made on the Site or with Nauticus should there be any suspicions of illegal activity or a breach of the Terms and Conditions.
 
-2.6 Nauticus do not provide service to any individual or entity from “prescribed foreign countries” under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act). (http://www.austrac.gov.au/businesses/obligations-and-compliance/countermeasures). The two countries that have been declared as “prescribed foreign countries” are Iran and  the Democratic People’s Republic of Korea (the DPRK, or North Korea).
+2.6 Nauticus does not provide service to any individual or entity from “prescribed foreign countries” under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act). (http://www.austrac.gov.au/businesses/obligations-and-compliance/countermeasures). The two countries that have been declared as “prescribed foreign countries” are Iran and  the Democratic People’s Republic of Korea (the DPRK, or North Korea).
 
 ## 3. Limited Rights of Use
 
