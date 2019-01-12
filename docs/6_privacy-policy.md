@@ -54,7 +54,7 @@ We take all reasonable steps to ensure that any personal information that we col
 
 ## Access and correction
 
-You have a right to access your personal information, subject to some exceptions allowed by law. If you wish to access your personal information, you should contact us via the Nauticus Support page. We reserve the right to charge a fee for searching for and providing access to your information.
+You have a right to access your personal information, subject to some exceptions allowed by law. If you wish to access your personal information, you should contact us via the Nauticus Support page. 
 
 ## Destruction
 
